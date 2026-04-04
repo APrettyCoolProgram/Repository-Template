@@ -1,14 +1,14 @@
 ##### =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 ##### .gitignore
 ##### For use with A Pretty Cool Program projects
-##### u250603
+##### 260404_code
+##### 260404_documentation
 ##### =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 #### Don't commit anything in this directory
 
 *.do-not-commit/
 [Pp]ublishProfiles/
-*.trash/
 
 #### These directories may contain sensitive data during development.
 */AppData/Import/*

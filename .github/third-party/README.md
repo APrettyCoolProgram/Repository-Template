@@ -1,3 +1,3 @@
 # .github/third-party
 
-Third party data.
+Third party data goes here.
