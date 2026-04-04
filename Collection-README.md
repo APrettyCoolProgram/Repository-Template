@@ -1,5 +1,5 @@
 <!--
-  README.md for Repository-Template.
+  README.md template for collection repositories.
   R26.4
   260331_code
   260331_documentation
@@ -15,19 +15,28 @@
 
   <br>
 
-  ![RELEASE](https://img.shields.io/badge/Release-26.4-teal)&nbsp;&nbsp;
+  ![RELEASE](https://img.shields.io/badge/Release-XX.xx-teal)&nbsp;&nbsp;
 
-# GitHub repository template
+# Collection README.md template
 
 </div>
 
-This is a GitHub repository template.
+<table>
+<tr>
+<td img src=".github/repository/readme/spacer.png" alt="blank-spacer" width="1000" height="1">
 
-To use this template:
+  ### CONTENTS
+  [Topic #1](#topic-1)<br>
+  [Topic #2](#topic-2)<br>
+  [Topic #3](#topic-3)<br>
+  <br>
 
-1. Steps to use
+</td>
+</tr>
+</table>
 
-2. Adding `.do-not-commit/` and `.trash`
+## Topic #1
 
-3. Choose a README.md
+## Topic #3
 
+## Topic #3
