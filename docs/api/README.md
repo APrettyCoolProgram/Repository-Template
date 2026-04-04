@@ -1,3 +1,3 @@
 # .github/docs/api
 
-API documentation.
+API documentation goes here

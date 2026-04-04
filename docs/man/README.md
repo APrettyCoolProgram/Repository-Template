@@ -1,3 +1,3 @@
 # .github/docs/man
 
-Repository manuals.
+Manuals go here.
