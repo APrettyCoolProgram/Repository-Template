@@ -1,3 +1,3 @@
 # .github/copilot
 
-GitHub Copilot data.
+GitHub Copilot data goes here.

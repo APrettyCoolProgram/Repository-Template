@@ -1,3 +1,3 @@
 # .github/workspace
 
-Project workspace data.
+Workspace data goes here.
