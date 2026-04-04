@@ -1,6 +1,5 @@
 > Please do not report security related issues, vulnerabilities or bugs including sensitive information to the issue tracker, or elsewhere in public. Instead sensitive bugs must be sent by email to <github@aprettycoolprogram.com>.
 
-
 Instead, please email <github@aprettycoolprogram.com>.
 
 Include the requested information listed below (as much as you can provide) to help us better understand the nature and scope of the possible issue:
