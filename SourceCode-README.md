@@ -220,36 +220,20 @@ If your project contains an API, it should be documented here (or link to the do
 
 I think so.
 
-# DEVELOPMENT
+# Development
 
-A blurb about development can go here.
-
-* [Project homepage](https://github.com/)
-* [Changelog](docs/CHANGELOG.md)
-* [Roadmap](docs/ROADMAP.md)
-* [Known issues](docs/KNOWN-ISSUES.md)
-* [Testing](docs/TESTING.md)
-
-## Additional information
-
-* [Acknowledgements](docs/ACKNOWLEDGEMENTS.md)
-* [Additional reading](docs/ADDITIONAL-READING.md)
-* [Built with](docs/BUILT-WITH.md)
-* [Contributors](docs/CONTRIBUTORS.md)
-* [Notices](docs/NOTICES.md)
-* [Related projects](docs/RELATED-PROJECTS.md)
-* [Support](https://github.com/APrettyCoolProgram/.github/SUPPORT.md)
+A blurb about development
 
 ## Contributing
 
 If you are interested in contributing to this project, please see the:
 
-* [Code of conduct](../.github/.github/CODE_OF_CONDUCT.md)
-* [Contributing guidelines](../.github/.github/CONTRIBUTING.md)
-* [Issue templates](../.github/.github/ISSUE_TEMPLATE/)
-* [Pull request template](../.github/.github/PULL_REQUEST_TEMPLATE/)
+- [Code of conduct](https://github.com/APrettyCoolProgram/.github/blob/main/.github/CODE_OF_CONDUCT.md)
+- [Contributing guidelines](https://github.com/APrettyCoolProgram/.github/blob/main/.github/CONTRIBUTING.md)
+* [Issue templates](https://github.com/APrettyCoolProgram/.github/blob/main/.github/ISSUE_TEMPLATE/)
+* [Pull request template](https://github.com/APrettyCoolProgram/.github/blob/main/.github/PULL_REQUEST_TEMPLATE/)
 
-### Repository
-* [Projects](https://github.com/github-account/repository-name/projects)
-* [Wiki](https://github.com/github-account/repository-name/wiki)
-* [Insights](https://github.com/github-account/repository-name/pulse)
+# Additional Information
+
+- [Repository](https://github.com/<URL>)
+- [Documentation](docs/)
