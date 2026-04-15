@@ -84,16 +84,16 @@
 <td  img src=".github/repository/readme/spacer.png" alt="blank-spacer" width="1000" height="1">
 
   ### CONTENTS
-  [ABOUT](#about)<br>
-  [GETTING STARTED](#getting-started)<br>
-  [INSTALLING](#installing)<br>
-  [SETUP](#setup)<br>
-  [USING](#using)<br>
-  [COMPILING](#compiling)<br>
-  [TESTING](#testing)<br>
-  [API](#api)<br>
-  [DEVELOPMENT](#development)<br>
-  [ADDITIONAL INFORMATION](#additional-information)<br>
+  * [ABOUT](#about)<br>
+  * [GETTING STARTED](#getting-started)<br>
+  * [INSTALLING](#installing)<br>
+  * [SETUP](#setup)<br>
+  * [USING](#using)<br>
+  * [COMPILING](#compiling)<br>
+  * [TESTING](#testing)<br>
+  * [API](#api)<br>
+  * [DEVELOPMENT](#development)<br>
+  * [ADDITIONAL INFORMATION](#additional-information)<br>
 
 </td>
 </tr>
