@@ -1,9 +1,19 @@
-# Repository: Additional Information
+<div align="center">
 
-## Acknowledgements
+  <h1>Repository: Additional Information
 
-## Additional reading
+</div>
 
-## Built with
+# Acknowledgements
 
-## Related projects
+# Additional reading
+
+# Built with
+
+# Related projects
+
+***
+
+<br>
+
+<sub>Last updated: 260415 </sub>

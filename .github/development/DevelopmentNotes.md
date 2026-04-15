@@ -1,4 +1,8 @@
-# Repository: Development Notes
+<div align="center">
+
+  <h1>Repository: Development Notes
+
+</div>
 
 #### CONTENTS
 
@@ -22,3 +26,9 @@
 ***
 
 # Version History
+
+***
+
+<br>
+
+<sub>Last updated: 260415 </sub>
