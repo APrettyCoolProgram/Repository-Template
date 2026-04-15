@@ -75,8 +75,6 @@
   Table of contents.
 
   These are things that aren't/don't belong in the Menu.
-  
-  The HTML indentations have to stay this way to work.
 -->
 
 ***
