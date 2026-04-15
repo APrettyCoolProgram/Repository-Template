@@ -49,9 +49,10 @@
 
 <div align="center">
 
-  ![](.github/repository/readme/screenshot01-dark.jpg)
-
-  The Screenshot
+  <figure>
+    <img src=".github/repository/readme/Screenshot.png" style="width:70%">
+    <figcaption>The Screenshot/figcaption>
+  </figure>
 
 </div>
 
