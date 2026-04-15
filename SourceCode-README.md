@@ -79,9 +79,7 @@
   The HTML indentations have to stay this way to work.
 -->
 
-<table>
-<tr>
-<td  img src=".github/repository/readme/spacer.png" alt="blank-spacer" width="1000" height="1">
+***
 
   ### CONTENTS
   * [ABOUT](#about)<br>
@@ -95,9 +93,7 @@
   * [DEVELOPMENT](#development)<br>
   * [ADDITIONAL INFORMATION](#additional-information)<br>
 
-</td>
-</tr>
-</table>
+***
 
 # ABOUT
 
