@@ -49,9 +49,9 @@
 
 <div align="center">
 
-  ![](.github/repository/readme/screenshot01-dark.jpg.png)
+  ![](.github/repository/readme/screenshot01-dark.jpg)
   <h6>The Screenshot</h6>
-  
+
 </div>
 
 ***
