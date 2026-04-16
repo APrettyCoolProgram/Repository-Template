@@ -16,7 +16,4 @@ Please attach any relevant log files, screenshots, etc.
 
 ***
 
-<br>
-
 <sub>Last updated: 260416</sub>
-

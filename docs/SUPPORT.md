@@ -10,7 +10,4 @@ For new issues, file your bug or feature request as a new Issue.
 
 ***
 
-<br>
-
 <sub>Last updated: 260416</sub>
-

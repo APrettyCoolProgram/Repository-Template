@@ -1,25 +1,31 @@
 <!--
   README.md template for source code repositories.
-  R26.4
-  260402_code
-  260402_documentation
+  R26.4.0.0-160953
+  260416_code
+  260416_documentation
 -->
 
 <!--
-  This section contains the project logo and various details.
-
-  There are references for both a "light" and "dark" images. The dark image
-  should have a background of HEX #0d1117, to match the dark mode of GitHub.
-  The light image is the fallback.
+[LOGO & BADGES] Project logo and various badges.
 -->
 
 <div align="center">
+
+  <!--
+  There are references for both a "light" and "dark" images. The dark image
+  should have a background of HEX #0d1117, to match the dark mode of GitHub.
+  The light image is the fallback.
+  -->
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".github/repository/logo/repository-logo-dark.jpg">
     <source media="(prefers-color-scheme: light)" srcset=".github/repository/logo/repository-logo-light.jpg">
     <img alt="Fallback image description" src=".github/repository/logo/repository-logo-light.jpg">
   </picture>
+
+  <!--
+  Modify/remove any of these badges as needed.
+  -->
 
   <br>
 
@@ -38,62 +44,117 @@
 
 </div>
 
+<!--
+This divider separates the [LOGO & BADGES] section from the rest of the README.
+--->
+
 ***
 
 <!--
-  Optional screenshot.
+[MESSAGE] Optional message you want all users to see.
+-->
+
+> [!IMPORTANT]  
+> This is a message everyone should see.
+
+<!--
+This divider separates the [MESSAGE] section from the rest of the README. If you
+are not using the [MESSAGE] section, comment this divider out.
+--->
+
+***
+
+<!--
+[SCREENSHOT] Optional screenshot.
 -->
 
 <br>
 
 <div align="center">
 
-  ![](.github/repository/readme/screenshot01-dark.jpg)
+  <!--
+  There are references for both a "light" and "dark" images. The dark image
+  should have a background of HEX #0d1117, to match the dark mode of GitHub.
+  The light image is the fallback.
+  -->
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/repository/readme/screenshot01-dark.jpg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/repository/readme/screenshot01-light.jpg">
+    <img alt="Fallback image description" src=".github/repository/readme/screenshot01-light.jpg">
+  </picture>
   <h6>The Screenshot</h6>
 
 </div>
 
+<!--
+This divider separates the [SCREENSHOT] section from the rest of the README. If you
+are not using the [SCREENSHOT] section, comment this divider out.
+--->
+
 ***
 
 <!--
-  Optional menu.
-
-  These are things that aren't/don't belong in the Table of Contents.
-
-  Use whichever components you want/need. 
+[HORIZONTAL MENU] Optional horizontal menu at the top of the README.
 -->
 
 <h6 align="center">
 
-  [WEBSITE](URL)&nbsp;&bull;&nbsp;[DEMO](URL)&nbsp;&bull;&nbsp;[MANUAL](doc/man/README.md)&nbsp;&bull;&nbsp;[CHANGELOG](doc/CHANGELOG.md)&nbsp;&bull;&nbsp;[ROADMAP](doc/ROADMAP.md)&nbsp;&bull;&nbsp;[KNOWN ISSUES](doc/KNOWN-ISSUES.md)&nbsp;&bull;&nbsp;[SUPPORT](doc/SUPPORT.md)
+  <!--
+  This menu contains components that aren't/don't belong in
+  the [TABLE OF CONTENTS].
+  -->
+
+  [WEBSITE](URL)&nbsp;&bull;&nbsp;[DEMO](URL)&nbsp;&bull;&nbsp;[MANUAL](docs/man/README.md)&nbsp;&bull;&nbsp;[CHANGELOG](docs/CHANGELOG.md)&nbsp;&bull;&nbsp;[ROADMAP](docs/ROADMAP.md)&nbsp;&bull;&nbsp;[KNOWN ISSUES](docs/KNOWN-ISSUES.md)&nbsp;&bull;&nbsp;[SUPPORT](docs/SUPPORT.md)
   
 </h6>
 
-<!-- 
-  Table of contents.
+<!--
+This divider separates the [HORIZONTAL MENU] section from the rest of the
+README. If you are not using the [HORIZONTAL MENU] section, comment this
+divider out.
+--->
 
-  These are things that aren't/don't belong in the Menu.
+***
+
+<!--
+[TABLE OF CONTENTS] The Table of Contents
 -->
 
-***
+  <!--
+  This menu contains components that aren't/don't belong in
+  the [HORIZONTAL MENU].
+  -->
 
   ### CONTENTS
-  * [ABOUT](#about)<br>
-  * [GETTING STARTED](#getting-started)<br>
-  * [INSTALLING](#installing)<br>
-  * [SETUP](#setup)<br>
-  * [USING](#using)<br>
-  * [COMPILING](#compiling)<br>
-  * [TESTING](#testing)<br>
+  * [About %ProjectName%](#about)<br>
+  * [Getting Started](#getting-started)<br>
+  * [Installing](#installing)<br>
+  * [Setup](#setup)<br>
+  * [Using](#using)<br>
+  * [Compiling](#compiling)<br>
+  * [Testing](#testing)<br>
   * [API](#api)<br>
-  * [DEVELOPMENT](#development)<br>
-  * [ADDITIONAL INFORMATION](#additional-information)<br>
+  * [Development](#development)<br>
+  * [Additional Information](#additional-information)<br>
+
+<!--
+This divider separates the [TABLE OF CONTENTS] section from the rest of
+the README.
+--->
+
 
 ***
 
-# ABOUT
+<!-- SECTION: About %ProjectName%
+    # About %ProjectName%: Describes the project in a few sentences
+    ## Features: List of project features
+    ## Built With: List of technologies used
+-->
 
-This is a template for GitHub repositories.
+# About %ProjectName%
+
+***SourceCode-README*** is a README.md template for source code repositories.
 
 ## Features
 
@@ -101,7 +162,13 @@ This is a template for GitHub repositories.
 * Feature #2
 * Feature #3
 
-# GETTING STARTED
+## Built With
+
+* Built with #1
+* Built with #2
+* Built with #3
+
+# Getting Started
 
 ## Before you begin
 
@@ -113,7 +180,7 @@ Things you should know/do before you begin.
 * Prerequisite #2
 * Prerequisite #3
 
-# INSTALLING
+# Installing
 
 ## Windows
 
@@ -140,7 +207,7 @@ Things you should know/do before you begin.
 3. Include screenshots when possible.
 4. If other operating systems are not supported, mention that here.
 
-# SETUP
+# Setup
 
 If your project has a setup procedure, document it here.
 
@@ -166,19 +233,19 @@ Optional configuration settings go here.
 
 Optional/important notes about options go here.
 
-# USING
+# Using
 
 Usage instructions go here.
 
-# UPDATING
+# Updating
 
 Updating instructions go here
 
-# UNINSTALLING
+# Uninstalling
 
 Instructions for uninstalling go here.
 
-# COMPILING
+# Compiling
 
 Compling information blurb goes here.
 
@@ -194,11 +261,11 @@ Building instructions go here.
 
 Deployment instructions go here.
 
-# TESTING
+# Testing
 
 Testing instructions go here.
 
-# HOW IT WORKS
+# How It Works
 
 Sometimes it's fun to let users know how the magic happens.
 
