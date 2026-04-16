@@ -41,11 +41,7 @@ not using the this section, comment this divider out.
 
   <h1>Source Code Repository README.md Template</h1>
 
-  <br>
-
   Catchphrase!
-
-  <br>
 
   ![RELEASE](https://img.shields.io/badge/Release\/Version-25.0.0.0-teal)&nbsp;
   ![STAGE](https://img.shields.io/badge/ALPHA/BETA-red)&nbsp; <!-- Alpha = Red, Beta = Yellow, Stable = Green -->
