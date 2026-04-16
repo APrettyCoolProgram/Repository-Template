@@ -23,18 +23,18 @@
 
   <br>
 
-  ![RELEASE](https://img.shields.io/badge/Release-25.0-teal)&nbsp;&nbsp;
-  ![RELEASE](https://img.shields.io/badge/Release_25.0-teal)&nbsp;&nbsp;
-  ![RELEASE](https://img.shields.io/badge/R25.0-teal)&nbsp;&nbsp;
-  ![VERSION](https://img.shields.io/badge/Version-2.0-teal)&nbsp;&nbsp;
-  ![VERSION](https://img.shields.io/badge/Version_2.0-teal)&nbsp;&nbsp;
-  ![VERSION](https://img.shields.io/badge/v2.0-teal)&nbsp;&nbsp;
-  ![STAGE](https://img.shields.io/badge/ALPHA-red)&nbsp;&nbsp;
-  ![STAGE](https://img.shields.io/badge/BETA-teal)&nbsp;&nbsp;
-  ![LICENSE](https://img.shields.io/badge/license-apache-blue)&nbsp;&nbsp;
-  [![OPERATING-SYSTEM](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)&nbsp;&nbsp;
-  [![DOTNET](https://img.shields.io/badge/.NET-10-512BD4?)](#)&nbsp;&nbsp;
-  [![CSHARP](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)&nbsp;&nbsp;
+  ![RELEASE](https://img.shields.io/badge/Release-25.0-teal)&nbsp;
+  ![RELEASE](https://img.shields.io/badge/Release_25.0-teal)&nbsp;
+  ![RELEASE](https://img.shields.io/badge/R25.0-teal)&nbsp;
+  ![VERSION](https://img.shields.io/badge/Version-2.0-teal)&nbsp;
+  ![VERSION](https://img.shields.io/badge/Version_2.0-teal)&nbsp;
+  ![VERSION](https://img.shields.io/badge/v2.0-teal)&nbsp;
+  ![STAGE](https://img.shields.io/badge/ALPHA-red)&nbsp;
+  ![STAGE](https://img.shields.io/badge/BETA-teal)&nbsp;
+  ![LICENSE](https://img.shields.io/badge/license-apache-blue)&nbsp;
+  [![OPERATING-SYSTEM](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)&nbsp;
+  [![DOTNET](https://img.shields.io/badge/.NET-10-512BD4?)](#)&nbsp;
+  [![CSHARP](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 
 </div>
 
