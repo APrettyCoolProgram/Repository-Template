@@ -65,7 +65,7 @@
 
 <h6 align="center">
 
-  [WEBSITE](URL)&nbsp;&bull;&nbsp;[DEMO](URL)&nbsp;&bull;&nbsp;[MANUAL](doc/manual/manual.md)&nbsp;&bull;&nbsp;[CHANGELOG](doc/repository/changelog.md)&nbsp;&bull;&nbsp;[ROADMAP](doc/repository/roadmap.md)&nbsp;&bull;&nbsp;[KNOWN ISSUES](doc/repository/known-issues.md)&nbsp;&bull;&nbsp;[SUPPORT](doc/repository/support.md)
+  [WEBSITE](URL)&nbsp;&bull;&nbsp;[DEMO](URL)&nbsp;&bull;&nbsp;[MANUAL](doc/man/README.md)&nbsp;&bull;&nbsp;[CHANGELOG](doc/CHANGELOG.md)&nbsp;&bull;&nbsp;[ROADMAP](doc/ROADMAP.md)&nbsp;&bull;&nbsp;[KNOWN ISSUES](doc/KNOWN-ISSUES.md)&nbsp;&bull;&nbsp;[SUPPORT](doc/SUPPORT.md)
   
 </h6>
 
