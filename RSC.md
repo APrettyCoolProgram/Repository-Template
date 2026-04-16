@@ -5,7 +5,22 @@
   260416_documentation
 -->
 
-<!-- [PROJECT LOGO/TITLE/BADGES] ===============================================
+<!-- [PROJECT MESSAGE] =========================================================
+* Project message (optional)
+---------------------------------------------------------------------------- -->
+
+> [!IMPORTANT]  
+> This is a message everyone should see.
+
+<!--
+This divider separates the this section from the rest of the README. If you are
+not using the this section, comment this divider out.
+--->
+---
+
+<!-- ===================================================== [PROJECT MESSAGE] -->
+
+<!-- [PROJECT INTRO] ===========================================================
 * Project logo
 * Project title (optional)
 * Project badges
@@ -24,76 +39,64 @@
     <img alt="Fallback image description" src=".github/repository/logo/repository-logo-light.jpg">
   </picture>
 
-  <h1>Repository Template</h1>
+  <h1>Source Code Repository README.md Template</h1>
 
   *One sentence that says exactly what this software does.*
 
-  <!--
-  Modify/remove any of these badges as needed.
-  -->
   <br>
 
-  ![RELEASE](https://img.shields.io/badge/Release-25.0.0.0-teal)&nbsp;
-  ![VERSION](https://img.shields.io/badge/Version-2.0.0.0-teal)&nbsp;
-  ![STAGE](https://img.shields.io/badge/ALPHA-red)&nbsp;
-  ![STAGE](https://img.shields.io/badge/BETA-yellow)&nbsp;
+  ![RELEASE](https://img.shields.io/badge/Release\/Version-25.0.0.0-teal)&nbsp;
+  ![STAGE](https://img.shields.io/badge/ALPHA/BETA-red)&nbsp; <!-- Alpha = Red, Beta = Yellow, Stable = Green -->
   ![LICENSE](https://img.shields.io/badge/license-apache-blue)&nbsp;
   ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
   ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)&nbsp;
-  
+
 </div>
 
 <!--
 This divider separates this section from the rest of the README. This should
 not be modified.
 --->
+---
 
-***
+<!-- ======================================================= [PROJECT INTRO] -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- [PROJECT DETAIL] ==========================================================
+* Project screenshot (optional)
+---------------------------------------------------------------------------- -->
 
 <div align="center">
 
-  <img alt="%ProjectName% logo" src=".github/logo.png" width="120">
+A second paragraph with a bit more detail — what problem this solves, who it is for, and
+what makes it worth using over alternatives.
 
-  # %ProjectName%
-
-
+  <!--
+  There are references for both a "light" and "dark" images. The dark image
+  should have a background of HEX #0d1117, to match the dark mode of GitHub.
+  The light image is the fallback.
+  -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/repository/readme/screenshot01-dark.jpg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/repository/readme/screenshot01-light.jpg">
+    <img alt="Fallback image description" src=".github/repository/readme/screenshot01-light.jpg">
+  </picture>
+  <h6>The Screenshot</h6>
 
 </div>
 
+<!--
+This divider separates the this section from the rest of the README. If you are
+not using the this section, comment this divider out.
+--->
 ---
 
-A second paragraph with a bit more detail — what problem this solves, who it is for, and
-what makes it worth using over alternatives.
+<!-- ====================================================== [PROJECT DETAIL] -->
+
+
+
+
+
+
 
 **Screenshot or demo GIF:**
 

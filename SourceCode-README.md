@@ -1,51 +1,9 @@
 
 
-<!-- =========================================== [PROJECT LOGO/TITLE/BADGES] -->
 
-<!-- [PROJECT MESSAGE] =========================================================
-* Project message (optional)
----------------------------------------------------------------------------- -->
 
-> [!IMPORTANT]  
-> This is a message everyone should see.
 
-<!--
-This divider separates the this section from the rest of the README. If you are
-not using the this section, comment this divider out.
---->
 
-***
-
-<!-- ===================================================== [PROJECT MESSAGE] -->
-
-<!-- [PROJECT SCREENSHOT] ======================================================
-* Project screenshot (optional)
----------------------------------------------------------------------------- -->
-
-<div align="center">
-
-  <!--
-  There are references for both a "light" and "dark" images. The dark image
-  should have a background of HEX #0d1117, to match the dark mode of GitHub.
-  The light image is the fallback.
-  -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/repository/readme/screenshot01-dark.jpg">
-    <source media="(prefers-color-scheme: light)" srcset=".github/repository/readme/screenshot01-light.jpg">
-    <img alt="Fallback image description" src=".github/repository/readme/screenshot01-light.jpg">
-  </picture>
-  <h6>The Screenshot</h6>
-
-</div>
-
-<!--
-This divider separates the this section from the rest of the README. If you are
-not using the this section, comment this divider out.
---->
-
-***
-
-<!-- ================================================== [PROJECT SCREENSHOT] -->
 
 <!-- [HORIZONTAL MENU] =========================================================
 * Horizontal menu at the top of the README (optional)
