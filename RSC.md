@@ -5,12 +5,12 @@
   260416_documentation
 -->
 
-<!-- [PROJECT MESSAGE] =========================================================
-* Project message (optional)
+<!-- [PROJECT WARNING] =========================================================
+* Project warning (optional)
 ---------------------------------------------------------------------------- -->
 
-> [!IMPORTANT]  
-> This is a message everyone should see.
+> [!WARNING]  
+> This is a warning everyone should see.
 
 <!--
 This divider separates the this section from the rest of the README. If you are
@@ -18,11 +18,12 @@ not using the this section, comment this divider out.
 --->
 ---
 
-<!-- ===================================================== [PROJECT MESSAGE] -->
+<!-- ===================================================== [PROJECT WARNING] -->
 
 <!-- [PROJECT INTRO] ===========================================================
 * Project logo
-* Project title (optional)
+* Project title
+* Project catchphrase!
 * Project badges
 ---------------------------------------------------------------------------- -->
 
@@ -90,7 +91,7 @@ not using the this section, comment this divider out.
 
 <!-- ====================================================== [PROJECT DETAIL] -->
 
-## Contents
+#### Contents
 
 - [Features](#features)
 - [Quick start](#quick-start)
