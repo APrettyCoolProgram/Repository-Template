@@ -41,7 +41,9 @@ not using the this section, comment this divider out.
 
   <h1>Source Code Repository README.md Template</h1>
 
-  *One sentence that says exactly what this software does.*
+  <br>
+
+  Catchphrase!
 
   <br>
 
