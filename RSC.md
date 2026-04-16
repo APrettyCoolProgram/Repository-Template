@@ -40,9 +40,7 @@
   ![LICENSE](https://img.shields.io/badge/license-apache-blue)&nbsp;
   ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
   ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)&nbsp;
-  ![DOTNET](https://img.shields.io/badge/.NET-10-512BD4?)&nbsp;
-  ![CSHARP](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
-
+  
 </div>
 
 <!--
