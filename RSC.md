@@ -65,10 +65,10 @@ not be modified.
 * Project screenshot (optional)
 ---------------------------------------------------------------------------- -->
 
-<div align="center">
-
 A second paragraph with a bit more detail — what problem this solves, who it is for, and
 what makes it worth using over alternatives.
+
+<div align="center">
 
   <!--
   There are references for both a "light" and "dark" images. The dark image
@@ -91,18 +91,6 @@ not using the this section, comment this divider out.
 ---
 
 <!-- ====================================================== [PROJECT DETAIL] -->
-
-
-
-
-
-
-
-**Screenshot or demo GIF:**
-
-![%ProjectName% screenshot](.github/screenshot.png)
-
----
 
 ## Contents
 
