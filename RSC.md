@@ -36,12 +36,12 @@
   ![RELEASE](https://img.shields.io/badge/Release-25.0.0.0-teal)&nbsp;
   ![VERSION](https://img.shields.io/badge/Version-2.0.0.0-teal)&nbsp;
   ![STAGE](https://img.shields.io/badge/ALPHA-red)&nbsp;
-  ![STAGE](https://img.shields.io/badge/BETA-orange)&nbsp;
+  ![STAGE](https://img.shields.io/badge/BETA-yellow)&nbsp;
   ![LICENSE](https://img.shields.io/badge/license-apache-blue)&nbsp;
-  [![Build](https://img.shields.io/badge/Build-Passing-brightgreen)](#building-from-source)
-  [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)]&nbsp;
-  [![DOTNET](https://img.shields.io/badge/.NET-10-512BD4?)](#)&nbsp;
-  [![CSHARP](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+  ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
+  ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)&nbsp;
+  ![DOTNET](https://img.shields.io/badge/.NET-10-512BD4?)&nbsp;
+  ![CSHARP](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 
 </div>
 
