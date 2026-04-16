@@ -5,9 +5,11 @@
   260416_documentation
 -->
 
-<!--
-[LOGO & BADGES] Project logo and various badges.
--->
+<!-- [PROJECT LOGO/TITLE/BADGES] ===============================================
+* Project logo
+* Project title (optional)
+* Project badges
+---------------------------------------------------------------------------- -->
 
 <div align="center">
 
@@ -16,7 +18,6 @@
   should have a background of HEX #0d1117, to match the dark mode of GitHub.
   The light image is the fallback.
   -->
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".github/repository/logo/repository-logo-dark.jpg">
     <source media="(prefers-color-scheme: light)" srcset=".github/repository/logo/repository-logo-light.jpg">
@@ -24,9 +25,14 @@
   </picture>
 
   <!--
+  If the repository logo makes the project name clear, you can comment out the
+  project name below.
+  -->
+  <h1>Repository Template</h1>
+
+  <!--
   Modify/remove any of these badges as needed.
   -->
-
   <br>
 
   ![RELEASE](https://img.shields.io/badge/Release-25.0-teal)&nbsp;
@@ -45,30 +51,33 @@
 </div>
 
 <!--
-This divider separates the [LOGO & BADGES] section from the rest of the README.
+This divider separates this section from the rest of the README. This should
+not be modified.
 --->
 
 ***
 
-<!--
-[MESSAGE] Optional message you want all users to see.
--->
+<!-- =========================================== [PROJECT LOGO/TITLE/BADGES] -->
+
+<!-- [PROJECT MESSAGE] =========================================================
+* Project message (optional)
+---------------------------------------------------------------------------- -->
 
 > [!IMPORTANT]  
 > This is a message everyone should see.
 
 <!--
-This divider separates the [MESSAGE] section from the rest of the README. If you
-are not using the [MESSAGE] section, comment this divider out.
+This divider separates the this section from the rest of the README. If you are
+not using the this section, comment this divider out.
 --->
 
 ***
 
-<!--
-[SCREENSHOT] Optional screenshot.
--->
+<!-- ===================================================== [PROJECT MESSAGE] -->
 
-<br>
+<!-- [PROJECT SCREENSHOT] ======================================================
+* Project screenshot (optional)
+---------------------------------------------------------------------------- -->
 
 <div align="center">
 
@@ -77,7 +86,6 @@ are not using the [MESSAGE] section, comment this divider out.
   should have a background of HEX #0d1117, to match the dark mode of GitHub.
   The light image is the fallback.
   -->
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".github/repository/readme/screenshot01-dark.jpg">
     <source media="(prefers-color-scheme: light)" srcset=".github/repository/readme/screenshot01-light.jpg">
@@ -88,41 +96,42 @@ are not using the [MESSAGE] section, comment this divider out.
 </div>
 
 <!--
-This divider separates the [SCREENSHOT] section from the rest of the README. If you
-are not using the [SCREENSHOT] section, comment this divider out.
+This divider separates the this section from the rest of the README. If you are
+not using the this section, comment this divider out.
 --->
 
 ***
 
-<!--
-[HORIZONTAL MENU] Optional horizontal menu at the top of the README.
--->
+<!-- ================================================== [PROJECT SCREENSHOT] -->
+
+<!-- [HORIZONTAL MENU] =========================================================
+* Horizontal menu at the top of the README (optional)
+---------------------------------------------------------------------------- -->
 
 <h6 align="center">
 
   <!--
-  This menu contains components that aren't/don't belong in
-  the [TABLE OF CONTENTS].
+  This menu contains components that aren't/don't belong in the [TOC].
   -->
-
   [WEBSITE](URL)&nbsp;&bull;&nbsp;[DEMO](URL)&nbsp;&bull;&nbsp;[MANUAL](docs/man/README.md)&nbsp;&bull;&nbsp;[CHANGELOG](docs/CHANGELOG.md)&nbsp;&bull;&nbsp;[ROADMAP](docs/ROADMAP.md)&nbsp;&bull;&nbsp;[KNOWN ISSUES](docs/KNOWN-ISSUES.md)&nbsp;&bull;&nbsp;[SUPPORT](docs/SUPPORT.md)
   
 </h6>
 
 <!--
-This divider separates the [HORIZONTAL MENU] section from the rest of the
-README. If you are not using the [HORIZONTAL MENU] section, comment this
-divider out.
+This divider separates the this section from the rest of the README. If you are
+not using the this section, comment this divider out.
 --->
 
 ***
 
-<!--
-[TABLE OF CONTENTS] The Table of Contents
--->
+<!-- ===================================================== [HORIZONTAL MENU] -->
 
+<!-- [TOC] =====================================================================
+* The Table of Contents (optional)
+---------------------------------------------------------------------------- -->
+  
   <!--
-  This menu contains components that aren't/don't belong in
+  The [TOC] contains components that aren't/don't belong in
   the [HORIZONTAL MENU].
   -->
 
@@ -139,22 +148,21 @@ divider out.
   * [Additional Information](#additional-information)<br>
 
 <!--
-This divider separates the [TABLE OF CONTENTS] section from the rest of
-the README.
+This divider separates the this section from the rest of the README. If you are
+not using the this section, comment this divider out.
 --->
-
 
 ***
 
-<!-- SECTION: About %ProjectName%
-    # About %ProjectName%: Describes the project in a few sentences
-    ## Features: List of project features
-    ## Built With: List of technologies used
--->
+<!-- [ABOUT] ===================================================================
+* About %ProjectName%: Describes the project in a few sentences
+* Features: List of project features (optional)
+* Built With: List of technologies used (optional)
+---------------------------------------------------------------------------- -->
 
 # About %ProjectName%
 
-***SourceCode-README*** is a README.md template for source code repositories.
+***SourceCode-README.md*** is a template for GitHub source code repositories.
 
 ## Features
 
@@ -167,6 +175,14 @@ the README.
 * Built with #1
 * Built with #2
 * Built with #3
+
+<!-- =============================================================== [ABOUT] -->
+
+<!-- [GETTINGS STARTED] ========================================================
+* Getting Started
+* Prerequisites
+
+---------------------------------------------------------------------------- -->
 
 # Getting Started
 
