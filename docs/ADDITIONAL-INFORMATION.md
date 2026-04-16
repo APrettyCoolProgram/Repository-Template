@@ -6,11 +6,19 @@
 
 # Acknowledgements
 
+None.
+
 # Additional reading
+
+None.
 
 # Built with
 
+None.
+
 # Related projects
+
+None.
 
 ***
 
