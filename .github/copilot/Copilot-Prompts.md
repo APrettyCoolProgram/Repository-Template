@@ -8,6 +8,11 @@ GitHub Copilot prompts should be kept track of here.
 
 ***
 
+> [note]
+> [Essential prompts](https://github.com/APrettyCoolProgram/TheDocumentationProject/blob/main/copilot/Copilot-EssentialPrompts.md)
+
+***
+
 <br>
 
 <sub>Last updated: 260415 </sub>
