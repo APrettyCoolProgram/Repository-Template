@@ -50,10 +50,6 @@ not using the this section, comment this divider out.
 
 </div>
 
-<!--
-This divider separates this section from the rest of the README. This should
-not be modified.
---->
 ---
 
 <!-- ======================================================= [PROJECT INTRO] -->
@@ -64,9 +60,6 @@ not be modified.
   should have a background of HEX #0d1117, to match the dark mode of GitHub.
   The light image is the fallback.
 ---------------------------------------------------------------------------- -->
-
-A second paragraph with a bit more detail — what problem this solves, who it is for, and
-what makes it worth using over alternatives.
 
 <div align="center">
 
@@ -106,7 +99,8 @@ not using the this section, comment this divider out.
 
 <!-- [TABLE OF CONTENTS] =======================================================
 * The Table of Contents
-  The [TOC] contains components that aren't in/don't belong in the horizontal menu.
+  The Table of Contents contains components that aren't in/don't belong in the
+  horizontal menu.
 ---------------------------------------------------------------------------- -->
 
 ### CONTENTS
@@ -115,7 +109,9 @@ not using the this section, comment this divider out.
 * [How It Works](#how-it-works)<br>
 * [Getting Started](#getting-started)<br>
 * [Installing](#installing)<br>
+* [Usage](#usage)<br>
 * [Acknowledgements](#acknowledgements)<br>
+* [Related Projects](#related-projects)<br>
 * [License](#license)<br>
 
 <!--
@@ -168,13 +164,9 @@ purpose and value proposition.
 
 ### What's New
 
-#### Version/Release X.Y.Z
-
-* New feature — What it does and why it matters.
-* Improvement — What was improved and why it matters.
-* Bug fix — What was fixed and why it matters.
-
-For more details, see the [CHANGELOG](docs/CHANGELOG.md).
+* New feature — A brief description of the new feature and its benefits.
+* Improvement — A brief description of the improvement and its benefits.
+* Bug fix — A brief description of the bug fix and its impact.
 
 ### Built With
 
@@ -195,35 +187,41 @@ A blurb describing how the project works at a high level.
 
 <!-- ========================================================= [HOW IT WORKS] -->
 
-
 <!-- [GETTING STARTED] =========================================================
 * Before you begin
   Any prerequisites, assumptions, or other information a user should know before
   getting started.
 * Prerequisites
   List of software, hardware, or other requirements.
-* Documentation
-  Information about where to find documentation.
+
+  If this section is only comprised of prerequisites, it can be merged with the
+  About section.
 ============================================================================ -->
 
 ## Getting Started
 
+A quick overview of how to get started with the project.
+
 ### Before you begin
 
-Things a user should know or do before starting.
+Any assumptions, or other information a user should know before
 
-### Prerequisites
+### Requirements
 
 | Requirement | Minimum version | Notes |
 |-------------|-----------------|-------|
-| [.NET SDK](https://dotnet.microsoft.com/download) | 10.0 | Required to build and run. |
-| Requirement two | X.x | Notes. |
-| Requirement three | X.x | Notes. |
+| [.NET SDK](https://dotnet.microsoft.com/en-us/download/dotnet/10.0) | 10.0 | Required to build and run. |
+| Requirement | | |
+| Requirement | | |
 
 <!-- [INSTALLING] =========================================================
 * Installing
   Step-by-step instructions for installing the project on supported platforms.
-  Remove OS sections that are not supported.
+
+  This section may contain the Prerequisites.
+
+  In general, this should be a quick overview of the installation process,
+  with a link to docs/man/README.md.
 ============================================================================ -->
 
 ## Installing
@@ -236,35 +234,61 @@ Quick summary of installation instructions, or link to the Installing documentat
 * Usage
   Step-by-step instructions for using the project on supported platforms.
   Remove OS sections that are not supported.
+
+  In general, this should be a quick overview of the usage process,
+  with a link to docs/man/README.md.
 ============================================================================ -->
 
-## Usage
+  ## Usage
 
 Step-by-step instructions for using the project on supported platforms.
 
 <!-- =============================================================== [USAGE] -->
 
-### Documentation
+<!-- [DOCUMENTATION] ===========================================================
+* Documentation
+  A quick overview of the documentation.
+============================================================================ -->
+
+## Documentation
 
 Documentation is available.
 
-<!-- ===================================================== [GETTING STARTED] -->
+<!-- ======================================================= [DOCUMENTATION] -->
+
+<!-- [ACKNOWLEDGEMENTS] ========================================================
+* Acknowledgements
+  List of acknowledgements, or remove this section if there are none.
+============================================================================ -->
 
 ## Acknowledgements
 
 None.
-### Additional reading
+
+<!-- ==================================================== [ACKNOWLEDGEMENTS] -->
+
+<!-- [RELATED PROJECTS] ========================================================
+* Related projects
+  List of related projects, or remove this section if there are none.
+============================================================================ -->
+
+## Related projects
 
 None.
 
-### Related projects
+<!-- ==================================================== [RELATED PROJECTS] -->
 
-None.
+<!-- [LICENSE] =================================================================
+* License
+  The license under which the project is distributed.
+============================================================================ -->
 
 ## License
 
 Distributed under the [Apache 2.0 License](LICENSE).  
 Copyright &copy; 2026 %Owner%
+
+<!-- ============================================================= [LICENSE] -->
 
 ---
 

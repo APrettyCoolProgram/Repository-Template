@@ -1,17 +1,8 @@
-<div align="center">
-
-  <h1>Repository: Development</h1>
-
-</div>
-
-***
-
-
-## Development
+# Repository: Development
 
 A blurb about development.
 
-### Contributing
+## Contributing
 
 If you are interested in contributing to this project, please see the:
 
@@ -20,13 +11,11 @@ If you are interested in contributing to this project, please see the:
 * [Issue templates](https://github.com/APrettyCoolProgram/.github/blob/main/.github/ISSUE_TEMPLATE/)
 * [Pull request template](https://github.com/APrettyCoolProgram/.github/blob/main/.github/PULL_REQUEST_TEMPLATE/)
 
-
-
-
-
 ## Contributing
 
-Contributions are welcome. Please follow these steps:
+%ProjectName% is an open source project, and contributions are welcome.
+
+Please follow these steps:
 
 1. **Search existing issues** before opening a new one to avoid duplicates.
 2. **Open an issue** to discuss the change you want to make.
@@ -35,8 +24,11 @@ Contributions are welcome. Please follow these steps:
 5. **Run the test suite** and ensure all tests pass before submitting.
 6. **Open a pull request** against `main` and fill in the pull request template.
 
-Please read the [contributing guidelines](docs/CONTRIBUTING.md) and
-[code of conduct](docs/CODE_OF_CONDUCT.md) before contributing.
+* [Code of conduct](https://github.com/APrettyCoolProgram/.github/blob/main/.github/CODE_OF_CONDUCT.md)
+* [Contributing guidelines](https://github.com/APrettyCoolProgram/.github/blob/main/.github/CONTRIBUTING.md)
+* [Issue templates](https://github.com/APrettyCoolProgram/.github/blob/main/.github/ISSUE_TEMPLATE/)
+* [Pull request template](https://github.com/APrettyCoolProgram/.github/blob/main/.github/PULL_REQUEST_TEMPLATE/)
 
+***
 
 <sub>Last updated: 260417</sub>
