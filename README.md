@@ -1,8 +1,6 @@
 <!--
-  README.md for Repository-Template.
-  R26.4
-  260402_code
-  260402_documentation
+  260417_code
+  260417_documentation
 -->
 
 <div align="center">
@@ -36,10 +34,11 @@ structure instead of an empty scaffold.
 ## What this repository includes
 
 - A root README for the template repository itself.
+- [README-REPO.md](README-REPO.md) as an alternate root README for this template repository.
 - [Collection-README.md](Collection-README.md) for collection-style repositories.
 - [SourceCode-README.md](SourceCode-README.md) for software or source-code repositories.
-- A [docs](docs) folder containing common repository documents such as the changelog, roadmap, testing notes,
-  support, and security guidance.
+- A [docs](docs) folder containing common repository documents including the changelog, roadmap, development
+  notes, testing, support, security guidance, FAQ, and troubleshooting guidance.
 - A [src](src) folder for source code organization.
 - A [.github](.github) folder for repository assets, workspace data, and repository-specific metadata.
 
@@ -66,7 +65,6 @@ Your repository should look like this:
 ```text
 .
 |-- .github/
-|   |-- .do-not-commit/
 |   |-- archive/
 |   |-- copilot/
 |   |-- development/
@@ -78,22 +76,48 @@ Your repository should look like this:
 |   |   |-- readme/
 |   |-- third-party/
 |   |-- workspace/
+|   |-- copilot-instructions.md
 |   
 |-- docs/
 |   |-- api/
 |   |-- man/
-|   |-- ADDITIONAL-INFORMATION.md
 |   |-- CHANGELOG.md
 |   |-- CODEOWNERS
 |   |-- CONTRIBUTORS.md
+|   |-- DEVELOPMENT.md
+|   |-- FAQ.md
 |   |-- KNOWN-ISSUES.md
 |   |-- NOTICES.md
 |   |-- ROADMAP.md
 |   |-- SECURITY.md
 |   |-- SUPPORT.md
 |   |-- TESTING.md
+|   |-- TROUBLESHOOTING.md
 |
 |-- src/
-|-- LICENSE.md
+|-- .gitignore
+|-- Collection-README.md
+|-- LICENSE
+|-- README-REPO.md
 |-- README.md
+|-- SourceCode-README.md
 ```
+
+## Supporting documentation
+
+The [docs](docs) folder contains the following standard documents:
+
+| File | Purpose |
+|------|---------|
+| [CHANGELOG.md](docs/CHANGELOG.md) | History of notable changes across releases. |
+| [CODEOWNERS](docs/CODEOWNERS) | GitHub code ownership assignments. |
+| [CONTRIBUTORS.md](docs/CONTRIBUTORS.md) | Acknowledgment of project contributors. |
+| [DEVELOPMENT.md](docs/DEVELOPMENT.md) | Developer setup, workflow, and contribution guidance. |
+| [FAQ.md](docs/FAQ.md) | Answers to frequently asked questions. |
+| [KNOWN-ISSUES.md](docs/KNOWN-ISSUES.md) | Documented known issues and workarounds. |
+| [NOTICES.md](docs/NOTICES.md) | Legal notices and third-party attributions. |
+| [ROADMAP.md](docs/ROADMAP.md) | Planned work and future direction. |
+| [SECURITY.md](docs/SECURITY.md) | Security policy and vulnerability reporting guidance. |
+| [SUPPORT.md](docs/SUPPORT.md) | How to get help and file issues. |
+| [TESTING.md](docs/TESTING.md) | Testing strategy and instructions. |
+| [TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) | Common problems and resolution steps. |

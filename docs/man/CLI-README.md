@@ -1,6 +1,6 @@
 <!--
-  README.md template for source code manuals.
-  R26.4.0.0-170944
+  README.md template for Command Line application manuals.
+  R26.4.0.0-171330
   260417_code
   260417_documentation
 -->
@@ -69,8 +69,11 @@ not using the this section, comment this divider out.
     * [Other Operating Systems](#other-operating-systems)<br>
 * [Setup](#setup)<br>
 * [Configuration](#configuration)<br>
+    * [Required settings](#required-settings)<br>
+    * [Recommended settings](#recommended-settings)<br>
+    * [Optional settings](#optional-settings)<br>
 * [Additional Setup](#additional-setup)<br>
-* [Usage](#usage)<br>
+* [Using](#using)<br>
 
 ---
 
@@ -151,6 +154,8 @@ Instructions for installing on other operating systems.
 
 ## Setup
 
+Brief description of the setup process.
+
 <!-- ========================================================= [SETUP] -->
 
 <!-- [CONFIGURATION] ========================================================
@@ -160,6 +165,26 @@ Instructions for installing on other operating systems.
 ============================================================================ -->
 
 ## Configuration
+
+Configuration file location: `path/to/config.file`
+
+### Required settings
+
+| Setting | Description | Default |
+|---------|-------------|---------|
+| `SettingName` | What this setting controls. | `default` |
+
+### Recommended settings
+
+| Setting | Description | Default |
+|---------|-------------|---------|
+| `SettingName` | What this setting controls. | `default` |
+
+### Optional settings
+
+| Setting | Description | Default |
+|---------|-------------|---------|
+| `SettingName` | What this setting controls. | `default` |
 
 <!-- ========================================================= [CONFIGURATION] -->
 
@@ -178,6 +203,98 @@ Instructions for installing on other operating systems.
   Instructions for using the project after installation and setup.
 ============================================================================ -->
 
-## Usage
+## Using
 
 <!-- ========================================================= [USAGE] -->
+
+<!-- [UPDATING] ================================================================
+  Optional. Instructions for upgrading to a newer version.
+============================================================================ -->
+
+## Updating
+
+Instructions for updating from a previous version.
+
+1. Step one.
+2. Step two.
+3. Step three.
+
+<!-- ============================================================= [UPDATING] -->
+
+<!-- [UNINSTALLING] ============================================================
+  Optional. Instructions for removing the software cleanly.
+============================================================================ -->
+
+# Uninstalling
+
+Instructions for uninstalling.
+
+1. Step one.
+2. Step two.
+
+<!-- ========================================================= [UNINSTALLING] -->
+
+<!-- [BUILDING FROM SOURCE] ====================================================
+  Required for source code repositories. Cover restore, build, and deploy.
+============================================================================ -->
+
+# Building from source
+
+## Restore dependencies
+
+```shell
+dotnet restore
+```
+
+## Build
+
+```shell
+dotnet build --configuration Release
+```
+
+## Run
+
+```shell
+dotnet run --project src/%ProjectName%.csproj
+```
+
+## Publish / deploy
+
+```shell
+dotnet publish --configuration Release --output ./publish
+```
+
+<!-- ================================================= [BUILDING FROM SOURCE] -->
+
+<!-- [TESTING] =================================================================
+  Optional. Describe how to run the test suite.
+============================================================================ -->
+
+# Testing
+
+## Running tests
+
+```shell
+dotnet test
+```
+
+## Test coverage
+
+Brief description of what is covered and what is not.
+
+***
+
+<!-- ============================================================== [TESTING] -->
+
+<!-- [API] =====================================================================
+  Optional. Document the public API or link to generated API documentation.
+  Remove this section if the project has no public API.
+============================================================================ -->
+
+# API
+
+Brief description of the API.
+
+Full API reference: [docs/api/README.md](docs/api/README.md)
+
+***

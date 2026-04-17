@@ -1,6 +1,6 @@
 <!--
   README.md template for source code repositories.
-  R26.4.0.0-170944
+  R26.4.0.0-171330
   260417_code
   260417_documentation
 -->
@@ -239,7 +239,18 @@ Quick summary of installation instructions, or link to the Installing documentat
   with a link to docs/man/README.md.
 ============================================================================ -->
 
-  ## Usage
+<!-- [SETUP] ===================================================================
+* Setup
+  Step-by-step instructions for setting up the project on supported platforms.
+  Remove OS sections that are not supported.
+
+  In general, this should be a quick overview of the setup process,
+  with a link to docs/man/README.md.
+============================================================================ -->
+
+<!-- =============================================================== [SETUP] -->
+
+## Usage
 
 Step-by-step instructions for using the project on supported platforms.
 
