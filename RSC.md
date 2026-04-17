@@ -193,25 +193,6 @@ Things a user should know or do before starting.
 
 <!-- ===================================================== [GETTING STARTED] -->
 
-<!-- [HORIZONTAL MENU] =========================================================
-* Horizontal menu (top)
-  Contains components that aren't in/don't belong in the table of contents.
----------------------------------------------------------------------------- -->
-
-<h6 align="center">
-
-  [FAQ](docs/FAQ.md)&nbsp;&bull;&nbsp;[DEVELOPMENT](docs/DEVELOPMENT.md)&nbsp;&bull;&nbsp;[TESTING](docs/TESTING.md)&nbsp;&bull;&nbsp;[SUPPORT](docs/SUPPORT.md)&nbsp;&bull;&nbsp;[NOTICES](docs/NOTICES.md)&nbsp;&bull;&nbsp;[KNOWN ISSUES](docs/KNOWN-ISSUES.md)&nbsp;&bull;&nbsp;[SUPPORT](docs/SUPPORT.md)
-  
-</h6>
-
-<!--
-This divider separates the this section from the rest of the README. If you are
-not using the this section, comment this divider out.
---->
----
-
-<!-- ===================================================== [HORIZONTAL MENU] -->
-
 ## Acknowledgements
 
 None.
@@ -227,6 +208,19 @@ None.
 
 Distributed under the [Apache 2.0 License](LICENSE).  
 Copyright &copy; 2026 %Owner%
+
+<!-- [HORIZONTAL MENU] =========================================================
+* Horizontal menu (bottom)
+  Contains components that aren't in/don't belong in the table of contents.
+---------------------------------------------------------------------------- -->
+
+<h6 align="center">
+
+  [FAQ](docs/FAQ.md)&nbsp;&bull;&nbsp;[DEVELOPMENT](docs/DEVELOPMENT.md)&nbsp;&bull;&nbsp;[TESTING](docs/TESTING.md)&nbsp;&bull;&nbsp;[SUPPORT](docs/SUPPORT.md)&nbsp;&bull;&nbsp;[NOTICES](docs/NOTICES.md)&nbsp;&bull;&nbsp;[KNOWN ISSUES](docs/KNOWN-ISSUES.md)&nbsp;&bull;&nbsp;[SUPPORT](docs/SUPPORT.md)
+  
+</h6>
+
+<!-- ===================================================== [HORIZONTAL MENU] -->
 
 ---
 

@@ -126,8 +126,6 @@ I think so.
 
 # Development
 
-
-
 # Additional Information
 
 - [Repository](https://github.com/<URL>)
