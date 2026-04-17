@@ -112,6 +112,7 @@ not using the this section, comment this divider out.
 ### CONTENTS
 
 * [About %ProjectName%](#about)<br>
+
 * [Getting Started](#getting-started)<br>
 * [Acknowledgements](#acknowledgements)<br>
 * [License](#license)<br>
@@ -146,6 +147,8 @@ not using the this section, comment this divider out.
   Describes the project in a few sentences
 * Features
   List of project features
+* What's new
+  A summary of what's new in the latest release
 * Built With
   List of technologies and/or frameworks used
 ---------------------------------------------------------------------------- -->
@@ -159,6 +162,16 @@ not using the this section, comment this divider out.
 * Feature — What it does and why it matters.
 * Feature — What it does and why it matters.
 * Feature — What it does and why it matters.
+
+### What's New
+
+#### Version/Release X.Y.Z
+
+* New feature — What it does and why it matters.
+* Improvement — What was improved and why it matters.
+* Bug fix — What was fixed and why it matters.
+
+For more details, see the [CHANGELOG](docs/CHANGELOG.md).
 
 ### Built With
 
@@ -174,7 +187,8 @@ not using the this section, comment this divider out.
   getting started.
 * Prerequisites
   List of software, hardware, or other requirements.
-
+* Documentation
+  Information about where to find documentation.
 ============================================================================ -->
 
 ## Getting Started
@@ -190,6 +204,11 @@ Things a user should know or do before starting.
 | [.NET SDK](https://dotnet.microsoft.com/download) | 10.0 | Required to build and run. |
 | Requirement two | X.x | Notes. |
 | Requirement three | X.x | Notes. |
+
+
+### Documentation
+
+Documentation is available.
 
 <!-- ===================================================== [GETTING STARTED] -->
 
@@ -209,6 +228,8 @@ None.
 Distributed under the [Apache 2.0 License](LICENSE).  
 Copyright &copy; 2026 %Owner%
 
+---
+
 <!-- [HORIZONTAL MENU] =========================================================
 * Horizontal menu (bottom)
   Contains components that aren't in/don't belong in the table of contents.
@@ -216,7 +237,7 @@ Copyright &copy; 2026 %Owner%
 
 <h6 align="center">
 
-  [FAQ](docs/FAQ.md)&nbsp;&bull;&nbsp;[DEVELOPMENT](docs/DEVELOPMENT.md)&nbsp;&bull;&nbsp;[TESTING](docs/TESTING.md)&nbsp;&bull;&nbsp;[SUPPORT](docs/SUPPORT.md)&nbsp;&bull;&nbsp;[NOTICES](docs/NOTICES.md)&nbsp;&bull;&nbsp;[KNOWN ISSUES](docs/KNOWN-ISSUES.md)&nbsp;&bull;&nbsp;[SUPPORT](docs/SUPPORT.md)
+  [FAQ](docs/FAQ.md)&nbsp;&bull;&nbsp;[DEVELOPMENT](docs/DEVELOPMENT.md)&nbsp;&bull;&nbsp;[API](docs/api/README.md)&nbsp;&bull;&nbsp;[TESTING](docs/TESTING.md)&nbsp;&bull;&nbsp;[SUPPORT](docs/SUPPORT.md)&nbsp;&bull;&nbsp;[NOTICES](docs/NOTICES.md)
   
 </h6>
 
