@@ -10,7 +10,7 @@
 ---------------------------------------------------------------------------- -->
 
 > [!WARNING]  
-> This is a warning everyone should see.
+> This is a warning everyone should see, or remove this section entirely.
 
 <!--
 This divider separates the this section from the rest of the README. If you are
@@ -104,7 +104,7 @@ not using the this section, comment this divider out.
 
 <!-- ===================================================== [HORIZONTAL MENU] -->
 
-<!-- [Table of Contents] =======================================================
+<!-- [TABLE OF CONTENTS] =======================================================
 * The Table of Contents (optional)
   The [TOC] contains components that aren't/don't belong in the horizontal menu.
 ---------------------------------------------------------------------------- -->
@@ -128,7 +128,24 @@ not using the this section, comment this divider out.
 --->
 ---
 
-<!-- =================================================== [Table of Contents] -->
+<!-- =================================================== [TABLE OF CONTENTS] -->
+
+<!-- [PROJECT MESSAGE] =========================================================
+* Project message (optional)
+  Use for time-sensitive notices, deprecation warnings, or anything critical
+  that every visitor should see. Remove this section if not needed.
+============================================================================ -->
+
+> [!IMPORTANT]
+> Replace this with a message everyone should see, or remove this section entirely.
+
+<!--
+This divider separates the this section from the rest of the README. If you are
+not using the this section, comment this divider out.
+--->
+---
+
+<!-- ===================================================== [PROJECT MESSAGE] -->
 
 <!-- [ABOUT] ===================================================================
 * About %ProjectName%: Describes the project in a few sentences
@@ -136,17 +153,17 @@ not using the this section, comment this divider out.
 * Built With: List of technologies used (optional)
 ---------------------------------------------------------------------------- -->
 
-# About %ProjectName%
+## About %ProjectName%
 
 ***SourceCode-README.md*** is a template for GitHub source code repositories.
 
-## Features
+### Features
 
 * Feature #1
 * Feature #2
 * Feature #3
 
-## Built With
+### Built With
 
 * Built with #1
 * Built with #2
