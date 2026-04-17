@@ -23,11 +23,7 @@
 
 Things you should know/do before you begin.
 
-## Prerequisites
 
-* Prerequisite #1
-* Prerequisite #2
-* Prerequisite #3
 
 # Installing
 
@@ -130,16 +126,7 @@ I think so.
 
 # Development
 
-A blurb about development
 
-## Contributing
-
-If you are interested in contributing to this project, please see the:
-
-- [Code of conduct](https://github.com/APrettyCoolProgram/.github/blob/main/.github/CODE_OF_CONDUCT.md)
-- [Contributing guidelines](https://github.com/APrettyCoolProgram/.github/blob/main/.github/CONTRIBUTING.md)
-* [Issue templates](https://github.com/APrettyCoolProgram/.github/blob/main/.github/ISSUE_TEMPLATE/)
-* [Pull request template](https://github.com/APrettyCoolProgram/.github/blob/main/.github/PULL_REQUEST_TEMPLATE/)
 
 # Additional Information
 

@@ -6,7 +6,7 @@
 -->
 
 <!-- [PROJECT WARNING] =========================================================
-* Project warning (optional)
+* Project warning
 ---------------------------------------------------------------------------- -->
 
 > [!WARNING]  
@@ -59,7 +59,7 @@ not be modified.
 <!-- ======================================================= [PROJECT INTRO] -->
 
 <!-- [PROJECT DETAIL] ==========================================================
-* Project screenshot (optional)
+* Project screenshot
   There are references for both a "light" and "dark" images. The dark image
   should have a background of HEX #0d1117, to match the dark mode of GitHub.
   The light image is the fallback.
@@ -86,13 +86,13 @@ not using the this section, comment this divider out.
 ---
 
 <!-- [HORIZONTAL MENU] =========================================================
-* Horizontal menu at the top of the README (optional)
-  Contains components that aren't/don't belong in the table of contents.
+* Horizontal menu (top)
+  Contains components that aren't in/don't belong in the table of contents.
 ---------------------------------------------------------------------------- -->
 
 <h6 align="center">
 
-  [WEBSITE](URL)&nbsp;&bull;&nbsp;[DEMO](URL)&nbsp;&bull;&nbsp;[MANUAL](docs/man/README.md)&nbsp;&bull;&nbsp;[CHANGELOG](docs/CHANGELOG.md)&nbsp;&bull;&nbsp;[ROADMAP](docs/ROADMAP.md)&nbsp;&bull;&nbsp;[KNOWN ISSUES](docs/KNOWN-ISSUES.md)&nbsp;&bull;&nbsp;[SUPPORT](docs/SUPPORT.md)
+  [WEBSITE](URL)&nbsp;&bull;&nbsp;[DEMO](URL)&nbsp;&bull;&nbsp;[MANUAL](docs/man/README.md)&nbsp;&bull;&nbsp;[CHANGELOG](docs/CHANGELOG.md)&nbsp;&bull;&nbsp;[ROADMAP](docs/ROADMAP.md)&nbsp;&bull;&nbsp;[KNOWN ISSUES](docs/KNOWN-ISSUES.md)
   
 </h6>
 
@@ -105,8 +105,8 @@ not using the this section, comment this divider out.
 <!-- ===================================================== [HORIZONTAL MENU] -->
 
 <!-- [TABLE OF CONTENTS] =======================================================
-* The Table of Contents (optional)
-  The [TOC] contains components that aren't/don't belong in the horizontal menu.
+* The Table of Contents
+  The [TOC] contains components that aren't in/don't belong in the horizontal menu.
 ---------------------------------------------------------------------------- -->
 
 ### CONTENTS
@@ -131,7 +131,7 @@ not using the this section, comment this divider out.
 <!-- =================================================== [TABLE OF CONTENTS] -->
 
 <!-- [PROJECT MESSAGE] =========================================================
-* Project message (optional)
+* Project message
   Use for time-sensitive notices, deprecation warnings, or anything critical
   that every visitor should see. Remove this section if not needed.
 ============================================================================ -->
@@ -148,9 +148,12 @@ not using the this section, comment this divider out.
 <!-- ===================================================== [PROJECT MESSAGE] -->
 
 <!-- [ABOUT] ===================================================================
-* About %ProjectName%: Describes the project in a few sentences
-* Features: List of project features (optional)
-* Built With: List of technologies used (optional)
+* About %ProjectName%
+  Describes the project in a few sentences
+* Features
+  List of project features
+* Built With
+  List of technologies and/or frameworks used
 ---------------------------------------------------------------------------- -->
 
 ## About %ProjectName%
@@ -159,51 +162,32 @@ not using the this section, comment this divider out.
 
 ### Features
 
-* Feature #1
-* Feature #2
-* Feature #3
+* Feature — What it does and why it matters.
+* Feature — What it does and why it matters.
+* Feature — What it does and why it matters.
 
 ### Built With
 
-* Built with #1
-* Built with #2
-* Built with #3
+* [Technology or framework](URL)  - Role it plays in the project.
+* [Technology or framework](URL)  - Role it plays in the project.
+* [Technology or framework](URL)  - Role it plays in the project.
 
 <!-- =============================================================== [ABOUT] -->
 
+<!-- [GETTING STARTED] =========================================================
+* Before you begin
+  Any prerequisites, assumptions, or other information a user should know before
+  getting started.
+* Prerequisites
+  List of software, hardware, or other requirements.
 
-## Features
+============================================================================ -->
 
-- **Feature one** — What it does and why it matters.
-- **Feature two** — What it does and why it matters.
-- **Feature three** — What it does and why it matters.
-- **Feature four** — What it does and why it matters.
+## Getting Started
 
----
+### Before you begin
 
-## Quick start
-
-The shortest possible path from nothing to working:
-
-```shell
-# 1. Clone the repository
-git clone https://github.com/owner/%ProjectName%.git
-cd %ProjectName%
-
-# 2. Install dependencies
-dotnet restore
-
-# 3. Run
-dotnet run --project src/%ProjectName%.csproj
-```
-
-> [!NOTE]
-> See [Installing](#installing) for platform-specific instructions and
-> [Configuration](#configuration) before running in a non-default environment.
-
----
-
-## Installing
+Things a user should know or do before starting.
 
 ### Prerequisites
 
@@ -213,206 +197,59 @@ dotnet run --project src/%ProjectName%.csproj
 | Requirement two | X.x | Notes. |
 | Requirement three | X.x | Notes. |
 
-### Windows
+<!-- ===================================================== [GETTING STARTED] -->
 
-1. Download the latest release from the [Releases](https://github.com/owner/%ProjectName%/releases) page.
-2. Run the installer and follow the prompts.
-3. Verify the installation:
+<!-- [DEVELOPMENT] =============================================================
+* Development
+  Information about development
+* Contributing
+  Contributing information.
+============================================================================ -->
 
-   ```shell
-   %ProjectName% --version
-   ```
+## Development
 
-### macOS
+A blurb about development.
 
-1. Step one.
-2. Step two.
-3. Verify:
+### Contributing
 
-   ```shell
-   %ProjectName% --version
-   ```
+If you are interested in contributing to this project, please see the:
 
-### Linux
+* [Code of conduct](https://github.com/APrettyCoolProgram/.github/blob/main/.github/CODE_OF_CONDUCT.md)
+* [Contributing guidelines](https://github.com/APrettyCoolProgram/.github/blob/main/.github/CONTRIBUTING.md)
+* [Issue templates](https://github.com/APrettyCoolProgram/.github/blob/main/.github/ISSUE_TEMPLATE/)
+* [Pull request template](https://github.com/APrettyCoolProgram/.github/blob/main/.github/PULL_REQUEST_TEMPLATE/)
 
-1. Step one.
-2. Step two.
-3. Verify:
+<!-- ======================================================== [DEVELOPMENT]  -->
 
-   ```shell
-   %ProjectName% --version
-   ```
+<!-- [HORIZONTAL MENU] =========================================================
+* Horizontal menu (top)
+  Contains components that aren't in/don't belong in the table of contents.
+---------------------------------------------------------------------------- -->
 
+<h6 align="center">
+
+  [FAQ](docs/FAQ.md)&nbsp;&bull;&nbsp;[DEVELOPMENT](docs/DEVELOPMENT.md)&nbsp;&bull;&nbsp;[TESTING](docs/TESTING.md)&nbsp;&bull;&nbsp;[SUPPORT](docs/SUPPORT.md)&nbsp;&bull;&nbsp;[NOTICES](docs/NOTICES.md)&nbsp;&bull;&nbsp;[KNOWN ISSUES](docs/KNOWN-ISSUES.md)&nbsp;&bull;&nbsp;[SUPPORT](docs/SUPPORT.md)
+  
+</h6>
+
+<!--
+This divider separates the this section from the rest of the README. If you are
+not using the this section, comment this divider out.
+--->
 ---
 
-## Configuration
+<!-- ===================================================== [HORIZONTAL MENU] -->
 
-Configuration is stored in `%ProjectName%.config.json` in the application directory.
-A default config file is generated on first run.
+## Acknowledgements
 
-### Required settings
+None.
+### Additional reading
 
-These must be set before the application will start:
+None.
 
-| Key | Type | Description |
-|-----|------|-------------|
-| `ConnectionString` | `string` | Database connection string. |
-| `ApiKey` | `string` | API key for the external service. |
+### Related projects
 
-### Optional settings
-
-| Key | Type | Default | Description |
-|-----|------|---------|-------------|
-| `LogLevel` | `string` | `"Warning"` | Minimum log level: `Trace`, `Debug`, `Info`, `Warning`, `Error`. |
-| `MaxRetries` | `int` | `3` | Number of retry attempts on transient failures. |
-| `TimeoutSeconds` | `int` | `30` | Request timeout in seconds. |
-
-**Example configuration:**
-
-```json
-{
-  "ConnectionString": "Server=localhost;Database=mydb;",
-  "ApiKey": "your-api-key-here",
-  "LogLevel": "Info",
-  "MaxRetries": 3,
-  "TimeoutSeconds": 30
-}
-```
-
----
-
-## Usage
-
-### Basic usage
-
-```shell
-%ProjectName% [command] [options]
-```
-
-### Commands
-
-| Command | Description |
-|---------|-------------|
-| `run` | Starts the application. |
-| `init` | Initializes a new configuration file. |
-| `status` | Displays the current status. |
-| `help` | Displays help information. |
-
-### Common examples
-
-**Initialize a new configuration:**
-
-```shell
-%ProjectName% init --output ./config
-```
-
-**Run with a specific configuration file:**
-
-```shell
-%ProjectName% run --config /path/to/%ProjectName%.config.json
-```
-
-**Display help for a specific command:**
-
-```shell
-%ProjectName% run --help
-```
-
----
-
-## Building from source
-
-### 1. Clone and restore
-
-```shell
-git clone https://github.com/owner/%ProjectName%.git
-cd %ProjectName%
-dotnet restore
-```
-
-### 2. Build
-
-```shell
-# Debug build
-dotnet build
-
-# Release build
-dotnet build --configuration Release
-```
-
-### 3. Publish a self-contained executable
-
-```shell
-dotnet publish src/%ProjectName%.csproj \
-  --configuration Release \
-  --runtime win-x64 \
-  --self-contained true \
-  --output ./dist
-```
-
-Replace `win-x64` with `osx-x64`, `osx-arm64`, or `linux-x64` as needed.
-
----
-
-## Testing
-
-```shell
-# Run all tests
-dotnet test
-
-# Run with detailed output
-dotnet test --logger "console;verbosity=detailed"
-
-# Run a specific test project
-dotnet test tests/%ProjectName%.Tests/%ProjectName%.Tests.csproj
-```
-
----
-
-## Updating and uninstalling
-
-### Updating
-
-1. Download the latest release.
-2. Replace the existing installation directory with the new files.
-3. Run `%ProjectName% init --migrate` to apply any configuration schema changes.
-
-### Uninstalling
-
-**Windows:** Use *Add or Remove Programs* in Settings, or run the bundled uninstaller.
-
-**macOS / Linux:** Delete the application directory and remove the entry from your `PATH`.
-
----
-
-## FAQ
-
-**Q: Does this work offline?**  
-A: Core functionality works without a network connection. Features that depend on the external API require connectivity.
-
-**Q: Where are logs stored?**  
-A: Logs are written to `%APPDATA%\%ProjectName%\logs` on Windows and `~/.local/share/%ProjectName%/logs` on macOS and Linux.
-
-**Q: Can I run multiple instances at the same time?**  
-A: Yes, as long as each instance uses a separate configuration file and data directory.
-
----
-
-## Contributing
-
-Contributions are welcome. Please follow these steps:
-
-1. **Search existing issues** before opening a new one to avoid duplicates.
-2. **Open an issue** to discuss the change you want to make.
-3. **Fork the repository** and create a feature branch from `main`.
-4. **Make your changes** — keep commits focused and write clear commit messages.
-5. **Run the test suite** and ensure all tests pass before submitting.
-6. **Open a pull request** against `main` and fill in the pull request template.
-
-Please read the [contributing guidelines](docs/CONTRIBUTING.md) and
-[code of conduct](docs/CODE_OF_CONDUCT.md) before contributing.
-
----
+None.
 
 ## License
 
@@ -421,4 +258,4 @@ Copyright &copy; 2026 %Owner%
 
 ---
 
-<sub>Last updated: 260416</sub>
+<sub>Last updated: 260417</sub>
