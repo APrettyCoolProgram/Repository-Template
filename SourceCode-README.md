@@ -5,79 +5,11 @@
 
 
 
-<!-- [HORIZONTAL MENU] =========================================================
-* Horizontal menu at the top of the README (optional)
----------------------------------------------------------------------------- -->
 
-<h6 align="center">
 
-  <!--
-  This menu contains components that aren't/don't belong in the [TOC].
-  -->
-  [WEBSITE](URL)&nbsp;&bull;&nbsp;[DEMO](URL)&nbsp;&bull;&nbsp;[MANUAL](docs/man/README.md)&nbsp;&bull;&nbsp;[CHANGELOG](docs/CHANGELOG.md)&nbsp;&bull;&nbsp;[ROADMAP](docs/ROADMAP.md)&nbsp;&bull;&nbsp;[KNOWN ISSUES](docs/KNOWN-ISSUES.md)&nbsp;&bull;&nbsp;[SUPPORT](docs/SUPPORT.md)
-  
-</h6>
 
-<!--
-This divider separates the this section from the rest of the README. If you are
-not using the this section, comment this divider out.
---->
 
-***
 
-<!-- ===================================================== [HORIZONTAL MENU] -->
-
-<!-- [TOC] =====================================================================
-* The Table of Contents (optional)
----------------------------------------------------------------------------- -->
-  
-  <!--
-  The [TOC] contains components that aren't/don't belong in
-  the [HORIZONTAL MENU].
-  -->
-
-  ### CONTENTS
-  * [About %ProjectName%](#about)<br>
-  * [Getting Started](#getting-started)<br>
-  * [Installing](#installing)<br>
-  * [Setup](#setup)<br>
-  * [Using](#using)<br>
-  * [Compiling](#compiling)<br>
-  * [Testing](#testing)<br>
-  * [API](#api)<br>
-  * [Development](#development)<br>
-  * [Additional Information](#additional-information)<br>
-
-<!--
-This divider separates the this section from the rest of the README. If you are
-not using the this section, comment this divider out.
---->
-
-***
-
-<!-- [ABOUT] ===================================================================
-* About %ProjectName%: Describes the project in a few sentences
-* Features: List of project features (optional)
-* Built With: List of technologies used (optional)
----------------------------------------------------------------------------- -->
-
-# About %ProjectName%
-
-***SourceCode-README.md*** is a template for GitHub source code repositories.
-
-## Features
-
-* Feature #1
-* Feature #2
-* Feature #3
-
-## Built With
-
-* Built with #1
-* Built with #2
-* Built with #3
-
-<!-- =============================================================== [ABOUT] -->
 
 <!-- [GETTINGS STARTED] ========================================================
 * Getting Started

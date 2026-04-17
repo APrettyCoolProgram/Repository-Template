@@ -1,8 +1,8 @@
 <!--
   README.md template for source code repositories.
-  R26.4.0.0-161055
-  260416_code
-  260416_documentation
+  R26.4.0.0-170944
+  260417_code
+  260417_documentation
 -->
 
 <!-- [PROJECT WARNING] =========================================================
@@ -22,6 +22,9 @@ not using the this section, comment this divider out.
 
 <!-- [PROJECT INTRO] ===========================================================
 * Project logo
+  There are references for both a "light" and "dark" images. The dark image
+  should have a background of HEX #0d1117, to match the dark mode of GitHub.
+  The light image is the fallback.
 * Project title
 * Project catchphrase!
 * Project badges
@@ -29,11 +32,6 @@ not using the this section, comment this divider out.
 
 <div align="center">
 
-  <!--
-  There are references for both a "light" and "dark" images. The dark image
-  should have a background of HEX #0d1117, to match the dark mode of GitHub.
-  The light image is the fallback.
-  -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".github/repository/logo/repository-logo-dark.jpg">
     <source media="(prefers-color-scheme: light)" srcset=".github/repository/logo/repository-logo-light.jpg">
@@ -62,6 +60,9 @@ not be modified.
 
 <!-- [PROJECT DETAIL] ==========================================================
 * Project screenshot (optional)
+  There are references for both a "light" and "dark" images. The dark image
+  should have a background of HEX #0d1117, to match the dark mode of GitHub.
+  The light image is the fallback.
 ---------------------------------------------------------------------------- -->
 
 A second paragraph with a bit more detail — what problem this solves, who it is for, and
@@ -69,11 +70,6 @@ what makes it worth using over alternatives.
 
 <div align="center">
 
-  <!--
-  There are references for both a "light" and "dark" images. The dark image
-  should have a background of HEX #0d1117, to match the dark mode of GitHub.
-  The light image is the fallback.
-  -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".github/repository/readme/screenshot01-dark.jpg">
     <source media="(prefers-color-scheme: light)" srcset=".github/repository/readme/screenshot01-light.jpg">
@@ -89,23 +85,75 @@ not using the this section, comment this divider out.
 --->
 ---
 
-<!-- ====================================================== [PROJECT DETAIL] -->
+<!-- [HORIZONTAL MENU] =========================================================
+* Horizontal menu at the top of the README (optional)
+  Contains components that aren't/don't belong in the table of contents.
+---------------------------------------------------------------------------- -->
 
-#### Contents
+<h6 align="center">
 
-- [Features](#features)
-- [Quick start](#quick-start)
-- [Installing](#installing)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Building from source](#building-from-source)
-- [Testing](#testing)
-- [Updating and uninstalling](#updating-and-uninstalling)
-- [FAQ](#faq)
-- [Contributing](#contributing)
-- [License](#license)
+  [WEBSITE](URL)&nbsp;&bull;&nbsp;[DEMO](URL)&nbsp;&bull;&nbsp;[MANUAL](docs/man/README.md)&nbsp;&bull;&nbsp;[CHANGELOG](docs/CHANGELOG.md)&nbsp;&bull;&nbsp;[ROADMAP](docs/ROADMAP.md)&nbsp;&bull;&nbsp;[KNOWN ISSUES](docs/KNOWN-ISSUES.md)&nbsp;&bull;&nbsp;[SUPPORT](docs/SUPPORT.md)
+  
+</h6>
 
+<!--
+This divider separates the this section from the rest of the README. If you are
+not using the this section, comment this divider out.
+--->
 ---
+
+<!-- ===================================================== [HORIZONTAL MENU] -->
+
+<!-- [Table of Contents] =======================================================
+* The Table of Contents (optional)
+  The [TOC] contains components that aren't/don't belong in the horizontal menu.
+---------------------------------------------------------------------------- -->
+
+### CONTENTS
+
+* [About %ProjectName%](#about)<br>
+* [Getting Started](#getting-started)<br>
+* [Installing](#installing)<br>
+* [Setup](#setup)<br>
+* [Using](#using)<br>
+* [Compiling](#compiling)<br>
+* [Testing](#testing)<br>
+* [API](#api)<br>
+* [Development](#development)<br>
+* [Additional Information](#additional-information)<br>
+
+<!--
+This divider separates the this section from the rest of the README. If you are
+not using the this section, comment this divider out.
+--->
+---
+
+<!-- =================================================== [Table of Contents] -->
+
+<!-- [ABOUT] ===================================================================
+* About %ProjectName%: Describes the project in a few sentences
+* Features: List of project features (optional)
+* Built With: List of technologies used (optional)
+---------------------------------------------------------------------------- -->
+
+# About %ProjectName%
+
+***SourceCode-README.md*** is a template for GitHub source code repositories.
+
+## Features
+
+* Feature #1
+* Feature #2
+* Feature #3
+
+## Built With
+
+* Built with #1
+* Built with #2
+* Built with #3
+
+<!-- =============================================================== [ABOUT] -->
+
 
 ## Features
 
