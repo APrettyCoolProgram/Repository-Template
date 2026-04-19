@@ -1,3 +1,3 @@
-# .github/archive
+# .github/working
 
-Working data goes here.
+Working documents and data go here.
