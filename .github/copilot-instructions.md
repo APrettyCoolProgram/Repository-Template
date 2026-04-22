@@ -1,4 +1,4 @@
-﻿<!-- Last updated 260403 -->
+﻿<!-- Last updated 260422 -->
 
 # Copilot Instructions (Repository Onboarding)
 
@@ -18,6 +18,8 @@ instructions first; perform searches only when the instructions are incomplete o
 - Follow existing C# and XAML styles used in the repo (indentation, naming). When in doubt, mimic nearby files.
 - Prefer `var` for local variable declarations when the initialized type is apparent or redundantly specified.
 - When there is a block of `something = somethingElse;` statements, align the equals signs vertically.
+- Code should be human-reaable and maintainable; prioritize clarity over cleverness or terseness.
+- Use descriptive names for variables, methods, and classes. Avoid abbreviations unless they are widely understood.
 
 ## XML documentation
 
