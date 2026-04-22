@@ -138,13 +138,6 @@ CI / workflows
 - No GitHub Actions workflows or other CI configuration were detected in the repository root. Assume the
   primary validation is that PRs must build cleanly with `dotnet build` on .NET 10.
 
-## Project layout & where to make changes
-
-- `MainWindow/MainWindow.xaml` / `MainWindow/MainWindow.xaml.cs` — application entry UI.
-- `Core/Framework.cs` — core framework utilities.
-- `Database/DatabaseMaintenanceWindow.xaml` / `Database/DatabaseMaintenanceWindow.xaml.cs` — database maintenance UI.
-- `ProjectInfo.cs` — project metadata (informational only, no executable code).
-
 ## Common pitfalls and helpful checks
 
 - Always ensure `dotnet build` succeeds before creating a PR. The build is the primary gate.
