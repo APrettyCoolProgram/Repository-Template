@@ -1,6 +1,6 @@
 <!--
   README.md template for source code repositories.
-  R26.4.0.0-171330
+  R26.4
   260417_code
   260417_documentation
 -->
@@ -318,4 +318,4 @@ Copyright &copy; 2026 %Owner%
 
 ---
 
-<sub>Last updated: 260417</sub>
+<sub>Last updated: 260505</sub>

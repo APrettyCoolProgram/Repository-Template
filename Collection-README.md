@@ -1,6 +1,6 @@
 <!--
   README.md template for collection repositories.
-  R26.4.0.0-221050
+  R26.4
   260422_code
   260422_documentation
 -->

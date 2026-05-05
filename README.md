@@ -1,5 +1,7 @@
 <!--
-  260417_code
+  README.md for Repository -Template
+  R26.5
+  260505_code
   260419_documentation
 -->
 
@@ -13,7 +15,7 @@
 
   <br>
 
-  ![RELEASE](https://img.shields.io/badge/Release-26.4-teal)&nbsp;&nbsp;
+  ![RELEASE](https://img.shields.io/badge/Release-26.45-teal)&nbsp;&nbsp;
   ![LICENSE](https://img.shields.io/badge/license-Apache%202.0-blue)
 
 # Repository Template
@@ -98,7 +100,6 @@ Your repository should look like this:
 |-- .gitignore
 |-- Collection-README.md
 |-- LICENSE
-|-- README-REPO.md
 |-- README.md
 |-- SourceCode-README.md
 ```
