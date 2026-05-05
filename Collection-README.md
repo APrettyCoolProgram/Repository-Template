@@ -1,8 +1,8 @@
 <!--
   README.md template for collection repositories.
-  R26.4
-  260422_code
-  260422_documentation
+  R26.5
+  260505_code
+  260505_documentation
 -->
 
 <!-- [PROJECT WARNING] =========================================================
@@ -26,7 +26,9 @@ not using the this section, comment this divider out.
   should have a background of HEX #0d1117, to match the dark mode of GitHub.
   The light image is the fallback.
 * Project title
+  Optional, depending on whether the project title is already clear from logo.
 * Project catchphrase!
+  Optional, if having a catchphrase fits the project.
 * Project badges
 ---------------------------------------------------------------------------- -->
 
@@ -40,9 +42,9 @@ not using the this section, comment this divider out.
 
   <h1>Collection README.md template</h1>
 
-  Catchphrase!
-
   ![RELEASE](https://img.shields.io/badge/Release-XX.xx-teal)&nbsp;&nbsp;
+
+  <h3>Catchrphrase goes here!</h3>
 
 </div>
 

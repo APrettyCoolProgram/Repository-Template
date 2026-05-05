@@ -1,8 +1,8 @@
 <!--
   README.md template for source code repositories.
-  R26.4
-  260417_code
-  260417_documentation
+  R26.5
+  260505_code
+  260505_documentation
 -->
 
 <!-- [PROJECT WARNING] =========================================================
@@ -26,7 +26,9 @@ not using the this section, comment this divider out.
   should have a background of HEX #0d1117, to match the dark mode of GitHub.
   The light image is the fallback.
 * Project title
+  Optional, depending on whether the project title is already clear from logo.
 * Project catchphrase!
+  Optional, if having a catchphrase fits the project.
 * Project badges
 ---------------------------------------------------------------------------- -->
 
@@ -40,13 +42,13 @@ not using the this section, comment this divider out.
 
   <h1>Source Code Repository README.md Template</h1>
 
-  Catchphrase!
-
   ![RELEASE](https://img.shields.io/badge/Release\/Version-25.0.0.0-teal)&nbsp;
   ![STAGE](https://img.shields.io/badge/ALPHA/BETA-red)&nbsp; <!-- Alpha = Red, Beta = Yellow, Stable = Green -->
   ![LICENSE](https://img.shields.io/badge/license-apache-blue)&nbsp;
   ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
   ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)&nbsp;
+
+  <h3>Catchrphrase goes here!</h3>
 
 </div>
 
