@@ -1,3 +1,5 @@
-# Repository: Changelog
+<div align="center">
 
-Nothing here yet.
+  <h1>Repository: Changelog</h1>
+
+</div>
