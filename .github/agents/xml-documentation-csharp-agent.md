@@ -100,8 +100,9 @@ When writing multi-line tags:
 - Use a `<remarks>` block when public methods, types, or properties can benefit from additional context.
 - Every method parameter must have a `<param>` tag that describes the parameter.
 - Use the `<typeparam>` tag to document generic type parameters.
-- Every method that returns a non-`void` value must have a `<returns>` tag.
-- Use the `<value>` tag to describe the meaning, expected range, units, or default value that a property or index represents.
+- Any method that returns a non-`void` value must have a `<returns>` tag.
+- All properties and indexes must use the `<value>` tag to describe the meaning, expected range, units, or default value.
+- All methods should use the `<example>` tag to provide usage example swith `<code>` blocks.
 - Use the `<exception>` tag to document exceptions that are explicitly thrown with `throw` inside the member.
 
 Use these in-line tags where appropriate:
@@ -116,7 +117,6 @@ Use these in-line tags where appropriate:
 | `<typeparamref name="..."/>` | References to generic type parameters                                     |
 | `<list>`                     | Bulleted lists, numbered lists, and tables                                |
 | `<br/>`                      | Line breaks (prefer over `<para></para>`)                                 |
-| `<example>`                  | Usage examples of how to use a method or other library member             |
 
 The `<see>` and `<seealso>` tags can reference the following:
   - `cref="member"` - A reference to a member or field that you can call from the current compilation environment
