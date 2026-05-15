@@ -34,13 +34,15 @@ Nothing here.
 
 ### Ask first
 
-Nothing here.
+If there is existing XML documentation, ask if you should:
+- `Update`: make edits to the existing XML documentation to improve clarity, accuracy, or completeness.
+- `Recreate`: remove the existing XML documentation and generate new documentation from scratch.
+- `Ignore`: do not make any changes to the existing XML documentation, even if it is incomplete or inaccurate.
 
 ### Never do
 
 Never do any of the following:
 
-- Replace or modify existing XML documentation.
 - Create XML documentation for event handlers.
 - Alter code logic, formatting, indentation, or naming.
 

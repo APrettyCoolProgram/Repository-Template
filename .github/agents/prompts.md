@@ -1,10 +1,10 @@
 <div align="center">
 
-  <h1>Repository: Copilot Prompts
+  <h1>Repository: Agent prompts
 
 </div>
 
-GitHub Copilot prompts should be kept track of here.
+Agent prompts should be kept track of here.
 
 ***
 
