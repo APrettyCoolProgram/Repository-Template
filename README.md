@@ -1,8 +1,6 @@
 <!--
   README.md for Repository -Template
-  R26.5
-  260505_code
-  260419_documentation
+  R26.6
 -->
 
 <div align="center">
@@ -15,7 +13,7 @@
 
   <br>
 
-  ![RELEASE](https://img.shields.io/badge/Release-26.5-teal)&nbsp;&nbsp;
+  ![RELEASE](https://img.shields.io/badge/Release-26.6-teal)&nbsp;&nbsp;
   ![LICENSE](https://img.shields.io/badge/license-Apache%202.0-blue)
 
 # Repository Template
