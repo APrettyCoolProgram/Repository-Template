@@ -9,7 +9,7 @@
 * Project warning
 ---------------------------------------------------------------------------- -->
 
-> [!WARNING]  
+> [!WARNING]
 > This is a warning everyone should see, or remove this section entirely.
 
 <!--
@@ -107,14 +107,14 @@ not using the this section, comment this divider out.
 
 | CONTENTS                                    |
 |---------------------------------------------|
-| [About %ProjectName%](#about-%ProjectName%) |
-| [How It Works](#how-it-works)               |
-| [Getting Started](#getting-started)         |
-| [Installing](#installing)                   |
-| [Usage](#usage)                             |
-| [Acknowledgements](#acknowledgements)       |
-| [Related Projects](#related-projects)       |
-| [License](#license)                         |
+| [ABOUT %ProjectName%](#about-%ProjectName%) |
+| [HOW IT WORKS](#how-it-works)               |
+| [GETTING STARTED](#getting-started)         |
+| [INSTALLING](#installing)                   |
+| [USAGE](#usage)                             |
+| [ACKNOWLEDGEMENTS](#acknowledgements)       |
+| [RELATED PROJECTS](#related-projects)       |
+| [LICENSE](#license)                         |
 
 <!--
 This divider separates the this section from the rest of the README. If you are
@@ -148,11 +148,9 @@ not using the this section, comment this divider out.
   List of project features
 * What's new
   A summary of what's new in the latest release
-* Built With
-  List of technologies and/or frameworks used
 ---------------------------------------------------------------------------- -->
 
-## About %ProjectName%
+## ABOUT %ProjectName%
 
 A brief description of the project, what it does, and who it's for. This should
 be a concise summary that gives readers a clear understanding of the project's
@@ -170,18 +168,6 @@ purpose and value proposition.
 * Improvement — A brief description of the improvement and its benefits.
 * Bug fix — A brief description of the bug fix and its impact.
 
-### Requirements
-
-* New feature — A brief description of the new feature and its benefits.
-* Improvement — A brief description of the improvement and its benefits.
-* Bug fix — A brief description of the bug fix and its impact.
-
-### Built With
-
-* [Technology or framework](URL)  - Role it plays in the project.
-* [Technology or framework](URL)  - Role it plays in the project.
-* [Technology or framework](URL)  - Role it plays in the project.
-
 <!-- =============================================================== [ABOUT] -->
 
 <!-- [HOW IT WORKS] ============================================================
@@ -189,7 +175,7 @@ purpose and value proposition.
   A high-level overview of how the project works.
 ============================================================================= -->
 
-## How It Works
+## HOW IT WORKS
 
 A blurb describing how the project works at a high level.
 
@@ -199,14 +185,14 @@ A blurb describing how the project works at a high level.
 * Before you begin
   Any prerequisites, assumptions, or other information a user should know before
   getting started.
-* Prerequisites
+* Prerequisites/Requirements
   List of software, hardware, or other requirements.
 
   If this section is only comprised of prerequisites, it can be merged with the
   About section.
 ============================================================================ -->
 
-## Getting Started
+## GETTING STARTED
 
 A quick overview of how to get started with the project.
 
@@ -218,9 +204,9 @@ Any assumptions, or other information a user should know before
 
 | Requirement | Minimum version | Notes |
 |-------------|-----------------|-------|
-| [.NET SDK](https://dotnet.microsoft.com/en-us/download/dotnet/10.0) | 10.0 | Required to build and run. |
-| Requirement | | |
-| Requirement | | |
+| Requirement |                 |       |
+| Requirement |                 |       |
+| Requirement |                 |       |
 
 <!-- [INSTALLING] =========================================================
 * Installing
@@ -232,7 +218,7 @@ Any assumptions, or other information a user should know before
   with a link to docs/man/README.md.
 ============================================================================ -->
 
-## Installing
+## INSTALLING
 
 Quick summary of installation instructions, or link to the Installing documentation.
 
@@ -258,7 +244,7 @@ Quick summary of installation instructions, or link to the Installing documentat
 
 <!-- =============================================================== [SETUP] -->
 
-## Usage
+## USAGE
 
 Step-by-step instructions for using the project on supported platforms.
 
@@ -269,7 +255,7 @@ Step-by-step instructions for using the project on supported platforms.
   A quick overview of the documentation.
 ============================================================================ -->
 
-## Documentation
+## DOCUMENTATION
 
 Documentation is available.
 
@@ -280,7 +266,7 @@ Documentation is available.
   List of acknowledgements, or remove this section if there are none.
 ============================================================================ -->
 
-## Acknowledgements
+## ACKNOWLEDGEMENTS
 
 None.
 
@@ -291,7 +277,13 @@ None.
   List of related projects, or remove this section if there are none.
 ============================================================================ -->
 
-## Related projects
+## BUILT WITH
+
+* [Technology or framework](URL)  - Role it plays in the project.
+* [Technology or framework](URL)  - Role it plays in the project.
+* [Technology or framework](URL)  - Role it plays in the project.
+
+## RELATED PROJECTS
 
 None.
 
@@ -302,7 +294,7 @@ None.
   The license under which the project is distributed.
 ============================================================================ -->
 
-## License
+## LICENSE
 
 Distributed under the [Apache 2.0 License](LICENSE).  
 Copyright &copy; 2026 %Owner%

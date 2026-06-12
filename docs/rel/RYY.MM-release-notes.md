@@ -4,35 +4,38 @@
 
 </div>
 
-
 | CONTENTS              |
 |:----------------------|
-| [New](#new)           |
-| [Updated](#updated)   |
-| [Fixed](#fixed)       |
-| [Removed](#removed)   |
-| [Security](#security) |
+| [NEW](#new)           |
+| [UPDATED](#updated)   |
+| [FIXED](#fixed)       |
+| [REMOVED](#removed)   |
+| [SECURITY](#security) |
 
----
+***
 
-Blurb about the release
-
-## New
+## NEW
 
 None.
 
-## Updated
+***
+
+## UPDATED
 
 None.
 
-## Fixed
+## FIXED
 
 None.
 
-## Removed
+***
+
+## REMOVED
 
 None.
 
-## Security
+***
+
+## SECURITY
 
 None.
