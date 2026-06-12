@@ -4,17 +4,35 @@
 
 </div>
 
-| CONTENTS                                        |
-|:----------------------------------------------- |
-| [Topic1](#topic1)                         |
-| [Topic2](#topic2) |
+
+| CONTENTS              |
+|:----------------------|
+| [New](#new)           |
+| [Updated](#updated)   |
+| [Fixed](#fixed)       |
+| [Removed](#removed)   |
+| [Security](#security) |
 
 ---
 
-## Topic1
+Blurb about the release
 
-Topic1 description goes here.
+## New
 
-## Topic2
+None.
 
-Topic2 description goes here.
+## Updated
+
+None.
+
+## Fixed
+
+None.
+
+## Removed
+
+None.
+
+## Security
+
+None.
