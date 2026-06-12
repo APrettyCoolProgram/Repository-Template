@@ -170,6 +170,12 @@ purpose and value proposition.
 * Improvement — A brief description of the improvement and its benefits.
 * Bug fix — A brief description of the bug fix and its impact.
 
+### Requirements
+
+* New feature — A brief description of the new feature and its benefits.
+* Improvement — A brief description of the improvement and its benefits.
+* Bug fix — A brief description of the bug fix and its impact.
+
 ### Built With
 
 * [Technology or framework](URL)  - Role it plays in the project.
