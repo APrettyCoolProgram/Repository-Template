@@ -1,8 +1,8 @@
 <!--
   README.md template for source code repositories.
-  R26.5
-  260505_code
-  260505_documentation
+  R26.6
+  260611_code
+  260611_documentation
 -->
 
 <!-- [PROJECT WARNING] =========================================================
@@ -105,16 +105,16 @@ not using the this section, comment this divider out.
   horizontal menu.
 ---------------------------------------------------------------------------- -->
 
-### CONTENTS
-
-* [About %ProjectName%](#about)<br>
-* [How It Works](#how-it-works)<br>
-* [Getting Started](#getting-started)<br>
-* [Installing](#installing)<br>
-* [Usage](#usage)<br>
-* [Acknowledgements](#acknowledgements)<br>
-* [Related Projects](#related-projects)<br>
-* [License](#license)<br>
+| CONTENTS                                    |
+|---------------------------------------------|
+| [About %ProjectName%](#about-%ProjectName%) |
+| [How It Works](#how-it-works)               |
+| [Getting Started](#getting-started)         |
+| [Installing](#installing)                   |
+| [Usage](#usage)                             |
+| [Acknowledgements](#acknowledgements)       |
+| [Related Projects](#related-projects)       |
+| [License](#license)                         |
 
 <!--
 This divider separates the this section from the rest of the README. If you are

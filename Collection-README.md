@@ -1,8 +1,8 @@
 <!--
   README.md template for collection repositories.
-  R26.5
-  260505_code
-  260505_documentation
+  R26.6
+  260611_code
+  260611_documentation
 -->
 
 <!-- [PROJECT WARNING] =========================================================
@@ -101,11 +101,11 @@ not using the this section, comment this divider out.
   horizontal menu.
 ---------------------------------------------------------------------------- -->
 
-### CONTENTS
-
-  [Topic #1](#topic-1)<br>
-  [Topic #2](#topic-2)<br>
-  [Topic #3](#topic-3)<br>
+| CONTENTS             |
+|----------------------|
+| [Topic #1](#topic-1) |
+| [Topic #2](#topic-2) |
+| [Topic #3](#topic-3) |
 
 <!--
 This divider separates the this section from the rest of the README. If you are
@@ -134,6 +134,6 @@ not using the this section, comment this divider out.
 
 ## Topic #1
 
-## Topic #3
+## Topic #2
 
 ## Topic #3
