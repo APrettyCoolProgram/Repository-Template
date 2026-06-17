@@ -162,12 +162,6 @@ purpose and value proposition.
 * Feature — What it does and why it matters.
 * Feature — What it does and why it matters.
 
-### What's New
-
-* New feature — A brief description of the new feature and its benefits.
-* Improvement — A brief description of the improvement and its benefits.
-* Bug fix — A brief description of the bug fix and its impact.
-
 <!-- =============================================================== [ABOUT] -->
 
 <!-- [HOW IT WORKS] ============================================================
