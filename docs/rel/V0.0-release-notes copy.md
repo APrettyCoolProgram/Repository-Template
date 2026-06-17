@@ -14,28 +14,32 @@
 
 ***
 
+## About this release
+
+***
+
 ## NEW
 
-None.
+No changes.
 
 ***
 
 ## UPDATED
 
-None.
+No changes.
 
 ## FIXED
 
-None.
+No changes.
 
 ***
 
 ## REMOVED
 
-None.
+No changes.
 
 ***
 
 ## SECURITY
 
-None.
+No changes.
