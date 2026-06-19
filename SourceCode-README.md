@@ -1,8 +1,8 @@
 <!--
   README.md template for source code repositories.
   R26.6
-  260611_code
-  260611_documentation
+  260619_code
+  260619_documentation
 -->
 
 <!-- [PROJECT WARNING] =========================================================
@@ -107,14 +107,14 @@ not using the this section, comment this divider out.
 
 | CONTENTS                                    |
 |---------------------------------------------|
-| [ABOUT %ProjectName%](#about-%ProjectName%) |
-| [HOW IT WORKS](#how-it-works)               |
-| [GETTING STARTED](#getting-started)         |
-| [INSTALLING](#installing)                   |
-| [USAGE](#usage)                             |
-| [ACKNOWLEDGEMENTS](#acknowledgements)       |
-| [RELATED PROJECTS](#related-projects)       |
-| [LICENSE](#license)                         |
+| [About%ProjectName%](#about-%ProjectName%) |
+| [How it works](#how-it-works)               |
+| [Getting started](#getting-started)         |
+| [Installing](#installing)                   |
+| [Usage](#usage)                             |
+| [Acknowledgements](#acknowledgements)       |
+| [Related projects](#related-projects)       |
+| [License](#license)                         |
 
 <!--
 This divider separates the this section from the rest of the README. If you are
@@ -150,7 +150,7 @@ not using the this section, comment this divider out.
   A summary of what's new in the latest release
 ---------------------------------------------------------------------------- -->
 
-## ABOUT %ProjectName%
+## About %ProjectName%
 
 A brief description of the project, what it does, and who it's for. This should
 be a concise summary that gives readers a clear understanding of the project's
@@ -169,7 +169,7 @@ purpose and value proposition.
   A high-level overview of how the project works.
 ============================================================================= -->
 
-## HOW IT WORKS
+## How it works
 
 A blurb describing how the project works at a high level.
 
@@ -186,7 +186,7 @@ A blurb describing how the project works at a high level.
   About section.
 ============================================================================ -->
 
-## GETTING STARTED
+## Getting started
 
 A quick overview of how to get started with the project.
 
@@ -212,7 +212,7 @@ Any assumptions, or other information a user should know before
   with a link to docs/man/README.md.
 ============================================================================ -->
 
-## INSTALLING
+## Installing
 
 Quick summary of installation instructions, or link to the Installing documentation.
 
@@ -238,7 +238,7 @@ Quick summary of installation instructions, or link to the Installing documentat
 
 <!-- =============================================================== [SETUP] -->
 
-## USAGE
+## Usage
 
 Step-by-step instructions for using the project on supported platforms.
 
@@ -249,7 +249,7 @@ Step-by-step instructions for using the project on supported platforms.
   A quick overview of the documentation.
 ============================================================================ -->
 
-## DOCUMENTATION
+## Documentation
 
 Documentation is available.
 
@@ -260,7 +260,7 @@ Documentation is available.
   List of acknowledgements, or remove this section if there are none.
 ============================================================================ -->
 
-## ACKNOWLEDGEMENTS
+## Acknowledgements
 
 None.
 
@@ -271,13 +271,13 @@ None.
   List of related projects, or remove this section if there are none.
 ============================================================================ -->
 
-## BUILT WITH
+## Built with
 
 * [Technology or framework](URL)  - Role it plays in the project.
 * [Technology or framework](URL)  - Role it plays in the project.
 * [Technology or framework](URL)  - Role it plays in the project.
 
-## RELATED PROJECTS
+## Related projects
 
 None.
 
@@ -288,7 +288,7 @@ None.
   The license under which the project is distributed.
 ============================================================================ -->
 
-## LICENSE
+## License
 
 Distributed under the [Apache 2.0 License](LICENSE).  
 Copyright &copy; 2026 %Owner%
