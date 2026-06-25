@@ -20,3 +20,5 @@
 ***
 
 [Source Code Documentation](../README.md) ❭ Class Documentation
+
+<!-- R26.6 -->

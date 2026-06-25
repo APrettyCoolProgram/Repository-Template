@@ -14,3 +14,5 @@
 
 * [Class](class/README.md)
 * [Namespace](namespace/README.md)
+
+<!-- R26.6 -->

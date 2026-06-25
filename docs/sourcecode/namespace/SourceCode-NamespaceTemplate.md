@@ -1,11 +1,11 @@
-[Source Code Documentation](../README.md) ❭ %Namespace% namespace
+[Source Code Documentation](../README.md) ❭ Namespace  ❭ %Namespace%
 
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/repository/logo/repository-logo-dark.jpg">
-    <source media="(prefers-color-scheme: light)" srcset=".github/repository/logo/repository-logo-light.jpg">
-    <img alt="Fallback image description" src=".github/repository/logo/repository-logo-light.jpg">
+    <source media="(prefers-color-scheme: dark)" srcset="../../../.github/repository/logo/repository-logo-dark.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="../../../.github/repository/logo/repository-logo-light.jpg">
+    <img alt="Fallback image description" src="../../../.github/repository/logo/repository-logo-light.jpg">
   </picture>
 
   <h1>%Namespace% namespace</h1>
@@ -65,4 +65,6 @@ A typical request flow is:
 
 ***
 
-[Source Code Documentation](../README.md) ❭ %Namespace% namespace
+[Source Code Documentation](../README.md) ❭ Namespace  ❭ %Namespace%
+
+<!-- R26.6 -->

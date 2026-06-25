@@ -1,11 +1,11 @@
-[Source Code Documentation](../README.md) ❭ $%ClassName$ class
+[Source Code Documentation](../README.md) ❭ Class ❭ $%ClassName$
 
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/repository/logo/repository-logo-dark.jpg">
-    <source media="(prefers-color-scheme: light)" srcset=".github/repository/logo/repository-logo-light.jpg">
-    <img alt="Fallback image description" src=".github/repository/logo/repository-logo-light.jpg">
+    <source media="(prefers-color-scheme: dark)" srcset="../../../.github/repository/logo/repository-logo-dark.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="../../../.github/repository/logo/repository-logo-light.jpg">
+    <img alt="Fallback image description" src="../../../.github/repository/logo/repository-logo-light.jpg">
   </picture>
 
   <h1>$%ClassName$ class</h1>
@@ -52,4 +52,6 @@ A typical request flow is:
 
 ***
 
-[Source Code Documentation](../README.md) ❭ $%ClassName$ class
+[Source Code Documentation](../README.md) ❭ Class ❭ $%ClassName$
+
+<!-- R26.6 -->
