@@ -1,4 +1,4 @@
-[Source Code Documentation](../README.md) ❭ Namespace  ❭ %Namespace%
+[Source Code Documentation](../README.md) ❭ [Namespace](README.md) ❭ %Namespace%
 
 <div align="center">
 
@@ -65,6 +65,6 @@ A typical request flow is:
 
 ***
 
-[Source Code Documentation](../README.md) ❭ Namespace  ❭ %Namespace%
+[Source Code Documentation](../README.md) ❭ [Namespace](README.md) ❭ %Namespace%
 
 <!-- R26.6 -->

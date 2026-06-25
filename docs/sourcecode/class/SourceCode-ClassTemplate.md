@@ -1,4 +1,4 @@
-[Source Code Documentation](../README.md) ❭ Class ❭ $%ClassName$
+[Source Code Documentation](../README.md) ❭ [Class](README.md) ❭ $%ClassName$
 
 <div align="center">
 
@@ -52,6 +52,6 @@ A typical request flow is:
 
 ***
 
-[Source Code Documentation](../README.md) ❭ Class ❭ $%ClassName$
+[Source Code Documentation](../README.md) ❭ [Class](README.md) ❭ $%ClassName$
 
 <!-- R26.6 -->
