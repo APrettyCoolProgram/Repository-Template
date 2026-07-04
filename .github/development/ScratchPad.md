@@ -3,5 +3,3 @@
   <h1>Repository: Scratchpad</h1>
 
 </div>
-
-<!-- R26.6 -->

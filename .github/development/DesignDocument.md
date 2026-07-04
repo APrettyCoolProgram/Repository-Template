@@ -10,6 +10,4 @@ The design document.
 
 <br>
 
-<sub>Last updated: 260619</sub>
-
-<!-- R26.6 -->
+<sub>Last updated: 260704</sub>

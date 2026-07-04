@@ -1,8 +1,5 @@
 <!--
-  README.md template GUI application manuals.
-  R26.4.0.0-171330
-  260417_code
-  260417_documentation
+  README.md template for manual.
 -->
 
 <!-- [WARNING] =========================================================
@@ -32,9 +29,9 @@ not using the this section, comment this divider out.
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/repository/logo/repository-logo-dark.jpg">
-    <source media="(prefers-color-scheme: light)" srcset=".github/repository/logo/repository-logo-light.jpg">
-    <img alt="Fallback image description" src=".github/repository/logo/repository-logo-light.jpg">
+    <source media="(prefers-color-scheme: dark)" srcset=".github/repository/logo/dark/repository-logo.jpg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/repository/logo/light/repository-logo.jpg">
+    <img alt="Fallback image description" src=".github/repository/logo/light/repository-logo.jpg">
   </picture>
 
   <h1>%ProjectName Manual</h1>
