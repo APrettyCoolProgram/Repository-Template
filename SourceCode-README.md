@@ -32,9 +32,9 @@ not using the this section, comment this divider out.
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/repository/logo/dark/repository-logo.jpg">
-    <source media="(prefers-color-scheme: light)" srcset=".github/repository/logo/light/repository-logo.jpg">
-    <img alt="Fallback image description" src=".github/repository/logo/light/repository-logo.jpg">
+    <source media="(prefers-color-scheme: dark)" srcset=".github/logo/dark/repository-logo.jpg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/logo/light/repository-logo.jpg">
+    <img alt="Fallback image description" src=".github/logo/light/repository-logo.jpg">
   </picture>
 
   <h1>Source Code Repository README.md Template</h1>

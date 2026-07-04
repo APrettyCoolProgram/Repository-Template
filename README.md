@@ -5,9 +5,9 @@
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/repository/logo/dark/repository-logo.jpg">
-    <source media="(prefers-color-scheme: light)" srcset=".github/repository/logo/light/repository-logo.jpg">
-    <img alt="Repository Template logo" src=".github/repository/logo/light/repository-logo.jpg">
+    <source media="(prefers-color-scheme: dark)" srcset=".github/logo/dark/repository-logo.jpg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/logo/light/repository-logo.jpg">
+    <img alt="Repository Template logo" src=".github/logo/light/repository-logo.jpg">
   </picture>
 
   <br>
