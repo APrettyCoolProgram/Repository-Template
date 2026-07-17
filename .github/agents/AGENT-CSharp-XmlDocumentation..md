@@ -1,11 +1,10 @@
 <!--
-  XML documentation agent instructions for C# files.
-
-  Last updated 260516 (R25.5)
+Last updated 260713
+https://gist.github.com/APrettyCoolProgram/0da90982c071060636c6c29570286f19
 -->
 
 ---
-name: xml-documentation-csharp-agent
+name: AGENT-CSharp-XmlDocumentation.md
 description: Adds missing XML documentation comments to C# types and members without changing code behavior.
 ---
 
@@ -207,4 +206,4 @@ public bool Save(string filePath)
 
 ---
 
-*END OF xml-documentation-csharp-agent.md*
+*END OF AGENT-CSharp-XmlDocumentation.md*

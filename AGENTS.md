@@ -1,25 +1,23 @@
-﻿<!-- 
-  AGENTS.md
-
-  This is the AGENTS.md file for %ProjectName%.
-
-  Last updated 260515
+﻿<!--
+Last updated 260713
+https://gist.github.com/APrettyCoolProgram/db5b7708c9ca236f3668bd39a036e1fe
 -->
 
 # %ProjectName% — Agent Index
 
-The following agents apply to this repository. Use the **Applies to** column
-to determine which agent should handle a given file.
+The following agents apply to this repository.
 
-| Agent                            | Applies to (glob) | Purpose                                      |
-|----------------------------------|-------------------|----------------------------------------------|
-| `xml-documentation-csharp-agent` | `**/*.cs`         | Add/maintain XML doc comments on C# members. |
+Use the **Applies to** column to determine which agent should handle a given file.
+
+| Agent                           | Applies to (glob) | Purpose                                      |
+|---------------------------------|-------------------|----------------------------------------------|
+| `AGENT-CSharp-XmlDocumentation` | `**/*.cs`         | Add/maintain XML doc comments on C# members. |
 
 ---
 
 # CSharp agents
 
-@./.github/agents/xml-documentation-csharp-agent.md
+@./.github/agents/AGENT-CSharp-XmlDocumentation.md
 
 ---
 
