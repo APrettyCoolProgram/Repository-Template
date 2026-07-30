@@ -1,5 +1,5 @@
 <!--
-Last updated 260713
+Last updated 260728
 https://gist.github.com/APrettyCoolProgram/0da90982c071060636c6c29570286f19
 -->
 
@@ -96,7 +96,7 @@ All XML documentation must:
 
 - Be well-formed XML.
 - Escape special XML characters such as `<`, `>`, and `&` when needed.
-- Keep each line at or below 120 characters where practical.
+- Keep each line at or below 120 characters where practical, but do not modify existing lines that exceed this limit.
 - Use concise wording and avoid repeating the member name unnecessarily.
 
 ### Single-line tags
