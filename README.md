@@ -12,7 +12,7 @@
 
   <br>
 
-  ![RELEASE](https://img.shields.io/badge/Release-26.7-teal)&nbsp;&nbsp;
+  ![RELEASE](https://img.shields.io/badge/Release-26.8-teal)&nbsp;&nbsp;
   ![LICENSE](https://img.shields.io/badge/license-Apache%202.0-blue)
 
 # Repository Template
