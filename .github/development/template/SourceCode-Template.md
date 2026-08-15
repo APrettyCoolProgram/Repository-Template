@@ -1,4 +1,4 @@
-[The Tingen Web Service Manual](../../README.md) ❭ [Development Manual](../README.md) ❭ [Source Code](README.md) ❭ CLASS.cs
+[Class documentation](../README.md) ❭ %ClassName.cs%
   
 <div align="center">
 
@@ -8,16 +8,16 @@
     <img alt="Fallback image description" src=".github/logo/light/repository-logo.jpg">
   </picture>
 
-<h1>CLASS.cs</h1>
+<h1>%ClassName.cs%</h1>
 
 </div>
 
 ***
 
 > [!NOTE]
-> Please see the [API documentation](https://spectrum-health-systems.github.io/Tingen-WebService/api/html/5ca65801-ed0c-b574-2c2f-dce3f1c5d426.htm) for more information on the `TingenWebService.asmx.cs` source code.
+> Please see the [API documentation](URL) for more information on the `%ClassName.cs%` class.
 
-*** 
+***
 
 ## Properties
 
@@ -27,6 +27,6 @@
 
 ***
 
-[The Tingen Web Service Manual](../README.md) ❭ [Development Manual](README.md) ❭ [Source Code](README.md) ❭ CLASS.cs
+[Class documentation](../README.md) ❭ %ClassName.cs%
 
-<sub>Last updated: 260611</sub>
+<sub>Last updated: 260815</sub>

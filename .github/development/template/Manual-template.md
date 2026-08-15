@@ -1,4 +1,4 @@
-[Manual](README.md) ❭ Manual Template
+[%RepositoryName% Manual](README.md) ❭
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
   ![RELEASE](https://img.shields.io/badge/Release-26.6-teal)
 
-  <h1>Manual Template</h1>
+  <h1>%RepositoryName% Manuale</h1>
 
 </div>
 
@@ -29,6 +29,6 @@
 
 ***
 
-[Manual](README.md) ❭ Manual Template
+[%RepositoryName% Manual](README.md) ❭
 
-<sub>Last updated: 260625</sub>
+<sub>Last updated: 260815</sub>

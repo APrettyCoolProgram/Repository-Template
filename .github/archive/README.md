@@ -1,5 +1,3 @@
 # .github/archive
 
-Archived data goes here.
-
-<!-- R26.6 -->
+`%RepositoryName%` archived data goes here.

@@ -1,4 +1,4 @@
-[Development Manual](README.md) ❭ Development Manual Template
+[%RepositoryName% Development Manual](README.md) ❭
 
 <div align="center">
 
@@ -8,7 +8,7 @@
     <img alt="Fallback image description" src=".github/logo/light/repository-logo.jpg">
   </picture>
   
-  <h1>Development Manual Template</h1>
+  <h1>%RepositoryName% Development Manual</h1>
 
 </div>
 
@@ -27,6 +27,6 @@
 
 ***
 
-[Development Manual](README.md) ❭ Development Manual Template
+[%RepositoryName% Development Manual](README.md) ❭
 
-<sub>Last updated: 260625</sub>
+<sub>Last updated: 260815</sub>

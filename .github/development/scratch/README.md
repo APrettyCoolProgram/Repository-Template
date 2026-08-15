@@ -1,3 +1,3 @@
 # .github/scratch
 
-Scratch/temporary data goes here.
+for the `%RepositoryName%` repository scratch/temporary data goes here.
