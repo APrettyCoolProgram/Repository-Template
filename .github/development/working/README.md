@@ -1,5 +1,3 @@
 # .github/working
 
-Working documents and data go here.
-
-<!-- R26.6 -->
+`%RepositoryName%` working documents and data go here.
