@@ -1,3 +1,3 @@
 # .github/docs/api
 
-`%RepositoryName%` API documentation goes here
+`%ProjectName%` API documentation goes here
