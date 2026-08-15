@@ -1,5 +1,3 @@
 # .github/third-party
 
-Third party data goes here.
-
-<!-- R26.6 -->
+`%RepositoryName%` repository third party data goes here.
