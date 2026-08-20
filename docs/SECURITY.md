@@ -1,3 +1,11 @@
+❰ [Back to repository main page](../README.md)
+
+<div align="center">
+
+  <h1>Repository: Security</h1>
+
+</div>
+
 > Please do not report security related issues, vulnerabilities or bugs including sensitive information to the issue tracker, or elsewhere in public. Instead sensitive bugs must be sent by email to <github@aprettycoolprogram.com>.
 
 Instead, please email <github@aprettycoolprogram.com>.
@@ -16,4 +24,4 @@ Please attach any relevant log files, screenshots, etc.
 
 ***
 
-<sub>Last updated: 260704</sub>
+❰ [Back to repository main page](../README.md)
