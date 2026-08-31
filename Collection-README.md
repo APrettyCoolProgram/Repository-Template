@@ -37,6 +37,8 @@ not using the this section, comment this divider out.
     <img alt="Fallback image description" src=".github/logo/light/repository-logo.jpg">
   </picture>
 
+  <img src=".github/logo/light/repository-logo.jpg" alt="Alt Text">
+
   <h1>Collection README.md template</h1>
 
   ![RELEASE](https://img.shields.io/badge/Release-XX.xx-teal)&nbsp;&nbsp;
