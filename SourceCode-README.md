@@ -13,7 +13,7 @@
 This divider separates the this section from the rest of the README. If you are
 not using the this section, comment this divider out.
 --->
----
+***
 
 <!-- ===================================================== [PROJECT WARNING] -->
 
@@ -51,7 +51,7 @@ not using the this section, comment this divider out.
 
 </div>
 
----
+***
 
 <!-- ======================================================= [PROJECT INTRO] -->
 
@@ -77,7 +77,7 @@ not using the this section, comment this divider out.
 This divider separates the this section from the rest of the README. If you are
 not using the this section, comment this divider out.
 --->
----
+***
 
 <!-- [HORIZONTAL MENU] =========================================================
 * Horizontal menu (top)
@@ -87,14 +87,14 @@ not using the this section, comment this divider out.
 <h6 align="center">
 
   [WEBSITE](URL)&nbsp;&bull;&nbsp;[DEMO](URL)&nbsp;&bull;&nbsp;[MANUAL](docs/man/README.md)&nbsp;&bull;&nbsp;[CHANGELOG](docs/CHANGELOG.md)&nbsp;&bull;&nbsp;[ROADMAP](docs/ROADMAP.md)&nbsp;&bull;&nbsp;[KNOWN ISSUES](docs/KNOWN-ISSUES.md)
-  
+
 </h6>
 
 <!--
 This divider separates the this section from the rest of the README. If you are
 not using the this section, comment this divider out.
 --->
----
+***
 
 <!-- ===================================================== [HORIZONTAL MENU] -->
 
@@ -106,7 +106,7 @@ not using the this section, comment this divider out.
 
 | CONTENTS                                    |
 |---------------------------------------------|
-| [About%ProjectName%](#about-%ProjectName%) |
+| [About %ProjectName%](#about-%ProjectName%) |
 | [How it works](#how-it-works)               |
 | [Getting started](#getting-started)         |
 | [Installing](#installing)                   |
@@ -119,7 +119,7 @@ not using the this section, comment this divider out.
 This divider separates the this section from the rest of the README. If you are
 not using the this section, comment this divider out.
 --->
----
+***
 
 <!-- =================================================== [TABLE OF CONTENTS] -->
 
@@ -136,7 +136,7 @@ not using the this section, comment this divider out.
 This divider separates the this section from the rest of the README. If you are
 not using the this section, comment this divider out.
 --->
----
+***
 
 <!-- ===================================================== [PROJECT MESSAGE] -->
 
@@ -289,12 +289,12 @@ None.
 
 ## License
 
-Distributed under the [Apache 2.0 License](LICENSE).  
-Copyright &copy; 2026 %Owner%
+Distributed under the [Apache 2.0 License](LICENSE)  
+Copyright &copy; 2026 [%Owner%](https://github.com/%Owner%)
 
 <!-- ============================================================= [LICENSE] -->
 
----
+***
 
 <!-- [HORIZONTAL MENU] =========================================================
 * Horizontal menu (bottom)
@@ -304,11 +304,7 @@ Copyright &copy; 2026 %Owner%
 <h6 align="center">
 
   [FAQ](docs/FAQ.md)&nbsp;&bull;&nbsp;[DEVELOPMENT](docs/DEVELOPMENT.md)&nbsp;&bull;&nbsp;[API](docs/api/README.md)&nbsp;&bull;&nbsp;[TESTING](docs/TESTING.md)&nbsp;&bull;&nbsp;[SUPPORT](docs/SUPPORT.md)&nbsp;&bull;&nbsp;[NOTICES](docs/NOTICES.md)
-  
+
 </h6>
 
 <!-- ===================================================== [HORIZONTAL MENU] -->
-
----
-
-<sub>Last updated: 260704</sub>

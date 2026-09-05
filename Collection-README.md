@@ -13,7 +13,7 @@
 This divider separates the this section from the rest of the README. If you are
 not using the this section, comment this divider out.
 --->
----
+***
 
 <!-- ===================================================== [PROJECT WARNING] -->
 
@@ -47,7 +47,7 @@ not using the this section, comment this divider out.
 
 </div>
 
----
+***
 
 <!-- ======================================================= [PROJECT INTRO] -->
 
@@ -73,7 +73,7 @@ not using the this section, comment this divider out.
 This divider separates the this section from the rest of the README. If you are
 not using the this section, comment this divider out.
 --->
----
+***
 
 <!-- [HORIZONTAL MENU] =========================================================
 * Horizontal menu (top)
@@ -90,7 +90,7 @@ not using the this section, comment this divider out.
 This divider separates the this section from the rest of the README. If you are
 not using the this section, comment this divider out.
 --->
----
+***
 
 <!-- ===================================================== [HORIZONTAL MENU] -->
 
@@ -110,7 +110,7 @@ not using the this section, comment this divider out.
 This divider separates the this section from the rest of the README. If you are
 not using the this section, comment this divider out.
 --->
----
+***
 
 <!-- =================================================== [TABLE OF CONTENTS] -->
 
@@ -127,7 +127,7 @@ not using the this section, comment this divider out.
 This divider separates the this section from the rest of the README. If you are
 not using the this section, comment this divider out.
 --->
----
+***
 
 <!-- ===================================================== [PROJECT MESSAGE] -->
 
