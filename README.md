@@ -5,9 +5,9 @@
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/logo/dark/repository-logo.jpg">
-    <source media="(prefers-color-scheme: light)" srcset=".github/logo/light/repository-logo.jpg">
-    <img alt="Repository Template logo" src=".github/logo/light/repository-logo.jpg">
+    <source media="(prefers-color-scheme: dark)" srcset=".github/logo/RepositoryTemplate-Logo-dark-279x272.jpg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/logo/RepositoryTemplate-Logo-light-279x272.jpg">
+    <img alt="Repository Template logo" src=".github/logo/RepositoryTemplate-Logo-light-279x272.jpg">
   </picture>
 
   <br>
@@ -20,7 +20,7 @@
 </div>
 
 This repository is a reusable starting point for GitHub repositories. It collects a root README, alternate README
-templates, standard supporting documentation, and GitHub metadata so a new repository can start with a consistent 
+templates, standard supporting documentation, and GitHub metadata so a new repository can start with a consistent
 structure instead of an empty scaffold.
 
 ## Contents
