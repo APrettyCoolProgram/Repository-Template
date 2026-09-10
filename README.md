@@ -25,7 +25,7 @@
 
 ***
 
-## About this repository
+# About this repository
 
 This is a GitHub repository template, which provides a consistent starting structure for new repositories.
 
@@ -43,9 +43,9 @@ This is a GitHub repository template, which provides a consistent starting struc
   * The [Project-README.md](Project-README.md) for project-style repositories.
   * The [SourceCode-README.md](SourceCode-README.md) for software or source-code repositories.
 
-## Using the template
+# Using the template
 
-### Collection repositories
+## Collection repositories
 
 A *collection repository* is a repository that primarily collects links, notes, or documentation and **does not contain** source code.
 
@@ -66,7 +66,7 @@ To create a collection repository:
 6. Replace %RepositoryName% with the name of the new repository in all relevant files.
 7. Add the `.do-not-commit/` folder to `.github/` (optional, but helpful)
 
-### Project repositories
+## Project repositories
 
 A *project repository* is a repository that contains multiple *projects*, which may include source code, documentation, and other assets.
 
@@ -90,7 +90,7 @@ To create a project repository:
 
 Each project within the repository should have its own dedicated folder under [projects/](projects).
 
-### Source code repositories
+## Source code repositories
 
 A *source code repository* is a repository that primarily contains buildable software or other source code.
 
@@ -108,11 +108,11 @@ To create a source code repository:
 6. Replace %RepositoryName% with the name of the new repository in all relevant files.
 7. Add the `.do-not-commit/` folder to `.github/` (optional, but helpful)
 
-## Folder structure
+# Folder structure
 
 Each of these folders contains a `README.md` file that provides information about the contents and purpose of the folder.
 
-### The `./` (root) folder
+## The `./` (root) folder
 
 All repositories have the following root folder structure:
 
@@ -129,29 +129,19 @@ All repositories have the following root folder structure:
 
 ```text
 .
-|-- .github/
-|-- docs/
 |-- projects/       Projects
 |   |-- ProjectA/   Project A
 |   |-- ProjectB/   Project B
-|-- .gitignore
-|-- LICENSE
-|-- README.md
 ```
 
 *Source code repositories* also include a `src/` folder to organize the source code.
 
 ```text
 .
-|-- .github/
-|-- docs/
 |-- src/          Source code
-|-- .gitignore
-|-- LICENSE
-|-- README.md
 ```
 
-### The `./.github/` folder
+## The `./.github/` folder
 
 All repositories include a `./.github/` folder for repository-specific resources.
 
@@ -168,7 +158,7 @@ All repositories include a `./.github/` folder for repository-specific resources
 |   |-- workspace/        Workspace resources
 ```
 
-#### The `./.github/development/` folder
+### The `./.github/development/` folder
 
 The `./.github/development/` folder contains resources related to the development process, including old source files, scratch files, templates, working files, and various development documents.
 
@@ -187,7 +177,7 @@ The `./.github/development/` folder contains resources related to the developmen
 |   |   |-- ScratchPad.md                 Scratch pad for development notes
 ```
 
-### The `./docs/` folder
+## The `./docs/` folder
 
 All repositories include a `./docs/` folder for documentation and supporting materials.
 
@@ -209,7 +199,7 @@ All repositories include a `./docs/` folder for documentation and supporting mat
 |   |-- TROUBLESHOOTING.md    Common problems and resolution steps
 ```
 
-#### The `./docs/api/` folder
+### The `./docs/api/` folder
 
 The `./docs/api/` folder contains API documentation for the repository.
 
@@ -218,7 +208,7 @@ The `./docs/api/` folder contains API documentation for the repository.
 |   |-- api/
 ```
 
-#### The `./docs/man/` folder
+### The `./docs/man/` folder
 
 The `./docs/man/` folder contains the manual for the repository.
 
@@ -227,7 +217,7 @@ The `./docs/man/` folder contains the manual for the repository.
 |   |-- man/
 ```
 
-#### The `./docs/release-notes/` folder
+### The `./docs/release-notes/` folder
 
 The `./docs/release-notes/` folder contains detailed version history for the repository.
 
@@ -236,7 +226,7 @@ The `./docs/release-notes/` folder contains detailed version history for the rep
 |   |-- release-notes/
 ```
 
-#### The `./docs/development/` folder
+### The `./docs/development/` folder
 
 The `./docs/development/` folder contains development documentation for the repository.
 
