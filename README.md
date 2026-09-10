@@ -47,7 +47,7 @@ This is a GitHub repository template, which provides a consistent starting struc
 
 ## Collection repositories
 
-A *collection repository* is a repository that primarily collects links, notes, or documentation and **does not contain** source code.
+A ***collection repository*** is a repository that primarily collects links, notes, or documentation and **does not contain** source code.
 
 [The Documentation Project](https://github.com/APrettyCoolProgram/TheDocumentationProject) is an example of a collection repository.
 
@@ -68,9 +68,9 @@ To create a collection repository:
 
 ## Project repositories
 
-A *project repository* is a repository that contains multiple *projects*, which may include source code, documentation, and other assets.
+A ***project repository*** is a repository that contains multiple *projects*, which may include source code, documentation, and other assets.
 
-The difference between a *project repository* and a *source code repository* is that a *project repository* contains projects that are loosely related - or not related at all - whereas a *source code repository* primarily focuses on a single codebase.
+The difference between a **project repository** and a **source code repository** is that a **project repository** contains projects that are loosely related - or not related at all - whereas a **source code repository** primarily focuses on a single codebase.
 
 The [Experiments](https://github.com/APrettyCoolProgram/Experiments) repository is an example of a project repository.
 
@@ -92,7 +92,7 @@ Each project within the repository should have its own dedicated folder under [p
 
 ## Source code repositories
 
-A *source code repository* is a repository that primarily contains buildable software or other source code.
+A ***source code repository*** is a repository that primarily contains buildable software or other source code.
 
 To create a source code repository:
 
