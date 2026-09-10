@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Repository: Design Document</h1>
+  <h1>%RepositoryName%: Design Document</h1>
 
 </div>
 
