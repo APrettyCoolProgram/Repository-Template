@@ -31,41 +31,41 @@
 
 ## About this repository
 
-This is a GitHub repository template, which provides:
+This is a GitHub repository template, which provides a consistent starting structure for new repositories.
 
-- A consistent starting structure for new repositories.
-- Standard supporting documentation.
-- GitHub metadata and assets.
-- Alternate README templates for different repository types.
-- And more!
+### What this repository includes
 
-## What this repository includes
+* A [.github/](.github) folder for repository resources.
+* A [docs/](docs) folder for repository documentation.
+* A [project/](project) folder for [*project repositories*](#project-repositories).
+* A [src/](src) folder for [*source code repositories*](#source-code-repositories).
+* A `.gitignore` file.
+* An `AGENTS.md` file.
+* A `LICENSE` file.
+* The repository's main `README.md`, which will be replaced by:
+  * The [Collection-README.md](Collection-README.md) for collection-style repositories.
+  * The [Project-README.md](Project-README.md) for project-style repositories.
+  * The [SourceCode-README.md](SourceCode-README.md) for software or source-code repositories.
 
-- The **README.md** (this file) for the template repository.
-- [Collection-README.md](Collection-README.md) for collection-style repositories.
-- [SourceCode-README.md](SourceCode-README.md) for software or source-code repositories.
-- A [.github/](.github) folder for repository assets, development and workspace data, and repository-specific metadata.
-- A [docs/](docs) folder containing common repository documents including the changelog, roadmap, development, notes, testing, support, security guidance, FAQ, and troubleshooting guidance.
-- A [projects/](projects) folder for individual projects.
-  notes, testing, support, security guidance, FAQ, and troubleshooting guidance.
-- A [src/](src) folder for source code organization.
 
 ## Using the template
 
 ### Collection repositories
 
-A *collection repository* is a repository that primarily collects links, notes, or documentation rather than containing source code.
+A *collection repository* is a repository that primarily collects links, notes, or documentation and **does not contain** source code.
 
 [The Documentation Project](https://github.com/APrettyCoolProgram/TheDocumentationProject) is an example of a collection repository.
 
 To create a collection repository:
 
 1. Create a new repository using this template.
-2. Delete the existing `README.md` (this file!).
-3. Rename `Collection-README.md` to `README.md`.
-4. Remove the following files/folders:
+2. Remove the following files/folders:
   * `src/`
+  * `projects/`
+  * `README.md` (this file!)
   * `SourceCode-README.md`
+  * `Projects-README.md`
+3. Rename `Collection-README.md` to `README.md`.
 4. Modify `README.md` to reflect the content and purpose of the repository.
 5. Review the files in [docs/](docs) and remove any folders/documents the new repository does not need.
 6. Replace %RepositoryName% with the name of the new repository in all relevant files.
@@ -73,7 +73,7 @@ To create a collection repository:
 
 ### Project repositories
 
-A *project repository* is a type of collection repository that contains multiple *projects*, which may include source code, documentation, and other assets.
+A *project repository* is a repository that contains multiple *projects*, which may include source code, documentation, and other assets.
 
 The difference between a *project repository* and a *source code repository* is that a *project repository* contains projects that are loosely related - or not related at all - whereas a *source code repository* primarily focuses on a single codebase.
 
@@ -82,11 +82,12 @@ The [Experiments](https://github.com/APrettyCoolProgram/Experiments) repository 
 To create a project repository:
 
 1. Create a new repository using this template.
-2. Delete the existing `README.md` (this file!).
-3. Rename `Collection-README.md` to `README.md`.
-4. Remove the following files/folders:
+2. Remove the following files/folders:
   * `src/`
+  * `README.md` (this file!)
+  * `Collection-README.md`
   * `SourceCode-README.md`
+3. Rename `Projects-README.md` to `README.md`.
 4. Modify `README.md` to reflect the content and purpose of the repository.
 5. Review the files in [docs/](docs) and remove any folders/documents the new repository does not need.
 6. Replace %RepositoryName% with the name of the new repository in all relevant files.
@@ -94,9 +95,6 @@ To create a project repository:
 
 Each project within the repository should have its own dedicated folder under [projects/](projects).
 
-
-
-
 ### Source code repositories
 
 A *source code repository* is a repository that primarily contains buildable software or other source code.
@@ -104,33 +102,38 @@ A *source code repository* is a repository that primarily contains buildable sof
 To create a source code repository:
 
 1. Create a new repository using this template.
-2. Delete the existing `README.md` (this file!).
+2. Remove the following files/folders:
+  * `projects/`
+  * `README.md` (this file!)
+  * `Collection-README.md`
+  * `Projects-README.md`
 3. Rename `SourceCode-README.md` to `README.md`.
 4. Modify `README.md` to reflect the content and purpose of the repository.
 5. Review the files in [docs/](docs) and remove any folders/documents the new repository does not need.
 6. Replace %RepositoryName% with the name of the new repository in all relevant files.
 7. Add the `.do-not-commit/` folder to `.github/` (optional, but helpful)
-
-### Source code repositories
-
-A *source code repository* is a repository that primarily contains buildable software or other source code.
-
-To create a source code repository:
-
-1. Create a new repository using this template.
-2. Delete the existing `README.md` (this file!).
-3. Rename `SourceCode-README.md` to `README.md`.
-4. Modify `README.md` to reflect the content and purpose of the repository.
-5. Review the files in [docs/](docs) and remove any folders/documents the new repository does not need.
-6. Replace %RepositoryName% with the name of the new repository in all relevant files.
-7. Add the `.do-not-commit/` folder to `.github/` (optional, but helpful)
-
-
-
 
 ## Repository layout
 
-Your repository should look like this:
+### . (root directory)
+
+|   |   |
+| --- | --- |
+| `.github/` | Repository resources |
+| 'docs/' | Repository documentation |
+| 'projects/' | Only used with [project repositories](#project-repositories)
+| 'src/' | Only used with [source code repositories](#source-code-repositories)
+| .gitignore | Repository .gitignore |
+| LICENSE | Repository license |
+| README.md | Repository README |
+
+|-- src/
+|-- .gitignore
+|-- Collection-README.md
+|-- LICENSE
+|-- README.md
+|-- SourceCode-README.md
+
 
 ```text
 .
@@ -176,6 +179,81 @@ Your repository should look like this:
 |-- README.md
 |-- SourceCode-README.md
 ```
+
+
+### .github/
+
+All types of repositories should include a `.github/` folder for GitHub-specific configurations and workflows:
+
+```text
+.
+|-- .github/
+|   |-- agents/
+|   |-- archive/
+|   |-- development/
+|   |   |-- old-src/
+|   |   |-- scratch/
+|   |   |-- template/
+|   |   |-- working/
+|   |   |-- DesignDocument.md
+|   |   |-- Development-KnownIssues.md
+|   |   |-- Development-Notes.md
+|   |   |-- Development-Roadmap.md
+|   |   |-- ScratchPad.md
+|   |-- logo/
+|   |-- repository/
+|   |   |-- readme/
+|   |-- third-party/
+|   |-- workspace/
+```
+
+```text
+.
+|-- .github/
+|   |-- agents/
+|   |-- archive/
+|   |-- development/
+|   |   |-- old-src/
+|   |   |-- scratch/
+|   |   |-- template/
+|   |   |-- working/
+|   |   |-- DesignDocument.md
+|   |   |-- Development-KnownIssues.md
+|   |   |-- Development-Notes.md
+|   |   |-- Development-Roadmap.md
+|   |   |-- ScratchPad.md
+|   |-- logo/
+|   |-- repository/
+|   |   |-- readme/
+|   |-- third-party/
+|   |-- workspace/
+|   
+|-- docs/
+|   |-- api/
+|   |-- man/
+|   |-- CHANGELOG.md
+|   |-- CODEOWNERS
+|   |-- CONTRIBUTORS.md
+|   |-- DEVELOPMENT.md
+|   |-- FAQ.md
+|   |-- KNOWN-ISSUES.md
+|   |-- NOTICES.md
+|   |-- ROADMAP.md
+|   |-- SECURITY.md
+|   |-- SUPPORT.md
+|   |-- TESTING.md
+|   |-- TROUBLESHOOTING.md
+|
+|-- src/
+|-- .gitignore
+|-- Collection-README.md
+|-- LICENSE
+|-- README.md
+|-- SourceCode-README.md
+```
+
+
+
 
 ## Supporting documentation
 
