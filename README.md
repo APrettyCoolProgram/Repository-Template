@@ -19,20 +19,29 @@
 
 </div>
 
-This repository is a reusable starting point for GitHub repositories. It collects a root README, alternate README
-templates, standard supporting documentation, and GitHub metadata so a new repository can start with a consistent
-structure instead of an empty scaffold.
+| CONTENTS |
+|----------|
+| [About this repository](#about-this-repository) |
+| [What this repository includes](#what-this-repository-includes) |
+| [Using the template](#using-the-template) |
+| [Repository layout](#repository-layout) |
+| [Supporting documentation](#supporting-documentation) |
 
-## Contents
+***
 
-- [What this repository includes](#what-this-repository-includes)
-- [Using the template](#using-the-template)
-- [Repository layout](#repository-layout)
-- [Supporting documentation](#supporting-documentation)
+## About this repository
+
+This is a GitHub repository template, which provides:
+
+- A consistent starting structure for new repositories.
+- Standard supporting documentation.
+- GitHub metadata and assets.
+- Alternate README templates for different repository types.
+- And more!
 
 ## What this repository includes
 
-- A root README.md (this file) for the template repository.
+- The **README.md** (this file) for the template repository.
 - [Collection-README.md](Collection-README.md) for collection-style repositories.
 - [SourceCode-README.md](SourceCode-README.md) for software or source-code repositories.
 - A [.github/](.github) folder for repository assets, development and workspace data, and repository-specific metadata.
@@ -43,19 +52,81 @@ structure instead of an empty scaffold.
 
 ## Using the template
 
-1. Create a new repository from this template, or copy the parts you want into an existing repository.
-2. Decide which README variant best matches the new repository:
-   - Use [Collection-README.md](Collection-README.md) for repositories that primarily collect links, notes, or
-     documentation.
-   - Use [SourceCode-README.md](SourceCode-README.md) for repositories that contain buildable software or other
-     source code.
-3. Copy the selected README template into the target repository as `README.md` and replace the placeholder text,
-   badges, links, screenshots, and release details.
-4. Review the files in [docs](docs) and remove any documents the new repository does not need.
-5. Update the repository assets under [.github/repository](.github/repository), especially the logo and README
-   screenshots, so the new repository branding matches the project.
-6. Add the `.do-not-commit/` folder to `.github/`
-7. Clean up any template-only content before publishing.
+### Collection repositories
+
+A *collection repository* is a repository that primarily collects links, notes, or documentation rather than containing source code.
+
+[The Documentation Project](https://github.com/APrettyCoolProgram/TheDocumentationProject) is an example of a collection repository.
+
+To create a collection repository:
+
+1. Create a new repository using this template.
+2. Delete the existing `README.md` (this file!).
+3. Rename `Collection-README.md` to `README.md`.
+4. Remove the following files/folders:
+  * `src/`
+  * `SourceCode-README.md`
+4. Modify `README.md` to reflect the content and purpose of the repository.
+5. Review the files in [docs/](docs) and remove any folders/documents the new repository does not need.
+6. Replace %RepositoryName% with the name of the new repository in all relevant files.
+7. Add the `.do-not-commit/` folder to `.github/` (optional, but helpful)
+
+### Project repositories
+
+A *project repository* is a type of collection repository that contains multiple *projects*, which may include source code, documentation, and other assets.
+
+The difference between a *project repository* and a *source code repository* is that a *project repository* contains projects that are loosely related - or not related at all - whereas a *source code repository* primarily focuses on a single codebase.
+
+The [Experiments](https://github.com/APrettyCoolProgram/Experiments) repository is an example of a project repository.
+
+To create a project repository:
+
+1. Create a new repository using this template.
+2. Delete the existing `README.md` (this file!).
+3. Rename `Collection-README.md` to `README.md`.
+4. Remove the following files/folders:
+  * `src/`
+  * `SourceCode-README.md`
+4. Modify `README.md` to reflect the content and purpose of the repository.
+5. Review the files in [docs/](docs) and remove any folders/documents the new repository does not need.
+6. Replace %RepositoryName% with the name of the new repository in all relevant files.
+7. Add the `.do-not-commit/` folder to `.github/` (optional, but helpful)
+
+Each project within the repository should have its own dedicated folder under [projects/](projects).
+
+
+
+
+### Source code repositories
+
+A *source code repository* is a repository that primarily contains buildable software or other source code.
+
+To create a source code repository:
+
+1. Create a new repository using this template.
+2. Delete the existing `README.md` (this file!).
+3. Rename `SourceCode-README.md` to `README.md`.
+4. Modify `README.md` to reflect the content and purpose of the repository.
+5. Review the files in [docs/](docs) and remove any folders/documents the new repository does not need.
+6. Replace %RepositoryName% with the name of the new repository in all relevant files.
+7. Add the `.do-not-commit/` folder to `.github/` (optional, but helpful)
+
+### Source code repositories
+
+A *source code repository* is a repository that primarily contains buildable software or other source code.
+
+To create a source code repository:
+
+1. Create a new repository using this template.
+2. Delete the existing `README.md` (this file!).
+3. Rename `SourceCode-README.md` to `README.md`.
+4. Modify `README.md` to reflect the content and purpose of the repository.
+5. Review the files in [docs/](docs) and remove any folders/documents the new repository does not need.
+6. Replace %RepositoryName% with the name of the new repository in all relevant files.
+7. Add the `.do-not-commit/` folder to `.github/` (optional, but helpful)
+
+
+
 
 ## Repository layout
 
