@@ -77,9 +77,6 @@ Your repository should look like this:
 |   |   |-- Development-Roadmap.md
 |   |   |-- ScratchPad.md
 |   |-- logo/
-|   |   |-- light/
-|   |   |-- dark/
-|   |   |-- transparent/
 |   |-- repository/
 |   |   |-- readme/
 |   |-- third-party/
