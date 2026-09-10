@@ -1,7 +1,3 @@
-<!--
-  README.md for Repository -Template
--->
-
 <div align="center">
 
   <picture>
@@ -46,7 +42,6 @@ This is a GitHub repository template, which provides a consistent starting struc
   * The [Collection-README.md](Collection-README.md) for collection-style repositories.
   * The [Project-README.md](Project-README.md) for project-style repositories.
   * The [SourceCode-README.md](SourceCode-README.md) for software or source-code repositories.
-
 
 ## Using the template
 
@@ -117,22 +112,33 @@ To create a source code repository:
 
 ### . (root directory)
 
-|   |   |
-| --- | --- |
-| `.github/` | Repository resources |
-| 'docs/' | Repository documentation |
-| 'projects/' | Only used with [project repositories](#project-repositories)
-| 'src/' | Only used with [source code repositories](#source-code-repositories)
-| .gitignore | Repository .gitignore |
-| LICENSE | Repository license |
-| README.md | Repository README |
+| Item | Description |
+| ---- | ------- |
+| `.github/` | Repository resources (logos, workflows, etc.) |
+| `docs/` | Documentation (changelogs, roadmaps, manuals, etc.) |
+| `projects/` | Only used with [project repositories](#project-repositories)
+| `src/` | Only used with [source code repositories](#source-code-repositories)
+| `.gitignore` | The repository .gitignore |
+| `LICENSE` | The repository license |
+| `README.md` | The repository README |
 
+```text
+.
+|-- .github/
+|-- docs/
+|-- project/
 |-- src/
 |-- .gitignore
-|-- Collection-README.md
 |-- LICENSE
 |-- README.md
-|-- SourceCode-README.md
+```
+
+
+
+
+
+
+
 
 
 ```text
