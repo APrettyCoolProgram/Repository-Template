@@ -20,7 +20,7 @@
 | [About this repository](#about-this-repository) |
 | [What this repository includes](#what-this-repository-includes) |
 | [Using the template](#using-the-template) |
-| [Repository layout](#repository-layout) |
+| [Folder structure](#folder-structure) |
 | [Supporting documentation](#supporting-documentation) |
 
 ***
@@ -29,7 +29,7 @@
 
 This is a GitHub repository template, which provides a consistent starting structure for new repositories.
 
-### What this repository includes
+## What this repository includes
 
 * A [.github/](.github) folder for repository resources.
 * A [docs/](docs) folder for repository documentation.
@@ -108,166 +108,151 @@ To create a source code repository:
 6. Replace %RepositoryName% with the name of the new repository in all relevant files.
 7. Add the `.do-not-commit/` folder to `.github/` (optional, but helpful)
 
-## Repository layout
+## Folder structure
 
-### . (root directory)
+Each of these folders contains a `README.md` file that provides information about the contents and purpose of the folder.
 
-All repositories using this template should follow the layout described below.
+### The `./` (root) folder
+
+All repositories have the following root folder structure:
 
 ```text
 .
-|-- .github/        Repository resources (logos, workflows, etc.)
-|-- docs/           Documentation (changelogs, roadmaps, manuals, etc.)
-|-- projects/       Only used with [project repositories](#project-repositories)
-|-- src/            Only used with [source code repositories](#source-code-repositories)
-|-- .gitignore      The repository .gitignore
-|-- LICENSE         The repository license
-|-- README.md       The repository README
+|-- .github/      Repository resources
+|-- docs/         Repository documentation
+|-- .gitignore    The repository .gitignore
+|-- LICENSE       The repository license
+|-- README.md     The repository README
 ```
 
-
-
-
-
-
-
-
+*Project collections* also include a `projects/` folder to organize individual projects.
 
 ```text
 .
 |-- .github/
-|   |-- agents/
-|   |-- archive/
-|   |-- development/
-|   |   |-- old-src/
-|   |   |-- scratch/
-|   |   |-- template/
-|   |   |-- working/
-|   |   |-- DesignDocument.md
-|   |   |-- Development-KnownIssues.md
-|   |   |-- Development-Notes.md
-|   |   |-- Development-Roadmap.md
-|   |   |-- ScratchPad.md
-|   |-- logo/
-|   |-- repository/
-|   |   |-- readme/
-|   |-- third-party/
-|   |-- workspace/
-|   
 |-- docs/
-|   |-- api/
-|   |-- man/
-|   |-- CHANGELOG.md
-|   |-- CODEOWNERS
-|   |-- CONTRIBUTORS.md
-|   |-- DEVELOPMENT.md
-|   |-- FAQ.md
-|   |-- KNOWN-ISSUES.md
-|   |-- NOTICES.md
-|   |-- ROADMAP.md
-|   |-- SECURITY.md
-|   |-- SUPPORT.md
-|   |-- TESTING.md
-|   |-- TROUBLESHOOTING.md
-|
-|-- src/
+|-- projects/       Projects
+|   |-- ProjectA/   Project A
+|   |-- ProjectB/   Project B
 |-- .gitignore
-|-- Collection-README.md
 |-- LICENSE
 |-- README.md
-|-- SourceCode-README.md
 ```
 
-
-### .github/
-
-All types of repositories should include a `.github/` folder for GitHub-specific configurations and workflows:
+*Source code repositories* also include a `src/` folder to organize the source code.
 
 ```text
 .
 |-- .github/
-|   |-- agents/
-|   |-- archive/
-|   |-- development/
-|   |   |-- old-src/
-|   |   |-- scratch/
-|   |   |-- template/
-|   |   |-- working/
-|   |   |-- DesignDocument.md
-|   |   |-- Development-KnownIssues.md
-|   |   |-- Development-Notes.md
-|   |   |-- Development-Roadmap.md
-|   |   |-- ScratchPad.md
-|   |-- logo/
-|   |-- repository/
-|   |   |-- readme/
-|   |-- third-party/
-|   |-- workspace/
-```
-
-```text
-.
-|-- .github/
-|   |-- agents/
-|   |-- archive/
-|   |-- development/
-|   |   |-- old-src/
-|   |   |-- scratch/
-|   |   |-- template/
-|   |   |-- working/
-|   |   |-- DesignDocument.md
-|   |   |-- Development-KnownIssues.md
-|   |   |-- Development-Notes.md
-|   |   |-- Development-Roadmap.md
-|   |   |-- ScratchPad.md
-|   |-- logo/
-|   |-- repository/
-|   |   |-- readme/
-|   |-- third-party/
-|   |-- workspace/
-|   
 |-- docs/
-|   |-- api/
-|   |-- man/
-|   |-- CHANGELOG.md
-|   |-- CODEOWNERS
-|   |-- CONTRIBUTORS.md
-|   |-- DEVELOPMENT.md
-|   |-- FAQ.md
-|   |-- KNOWN-ISSUES.md
-|   |-- NOTICES.md
-|   |-- ROADMAP.md
-|   |-- SECURITY.md
-|   |-- SUPPORT.md
-|   |-- TESTING.md
-|   |-- TROUBLESHOOTING.md
-|
-|-- src/
+|-- src/          Source code
 |-- .gitignore
-|-- Collection-README.md
 |-- LICENSE
 |-- README.md
-|-- SourceCode-README.md
+```
+
+### The `./.github/` folder
+
+All repositories include a `./.github/` folder for repository-specific resources.
+
+```text
+.
+|-- .github/
+|   |-- .do-not-commit/   Data/resources that should not be committed
+|   |-- agents/           AGENT files
+|   |-- archive/          Archived data
+|   |-- development/      Development resources
+|   |-- logo/             Logos
+|   |-- readme/           Repository README.md resources
+|   |-- third-party/      Third-party resources
+|   |-- workspace/        Workspace resources
+```
+
+#### The `./.github/development/` folder
+
+The `./.github/development/` folder contains resources related to the development process, including old source files, scratch files, templates, working files, and various development documents.
+
+```text
+.
+|-- .github/
+|   |-- development/
+|   |   |-- old-src/                      Old source files
+|   |   |-- scratch/                      Scratch files
+|   |   |-- template/                     Template files
+|   |   |-- working/                      Working files 
+|   |   |-- DesignDocument.md             Design document
+|   |   |-- Development-KnownIssues.md    Known issues in development
+|   |   |-- Development-Notes.md          Development notes
+|   |   |-- Development-Roadmap.md        Development roadmap
+|   |   |-- ScratchPad.md                 Scratch pad for development notes
+```
+
+### The `./docs/` folder
+
+All repositories include a `./docs/` folder for documentation and supporting materials.
+
+```text
+.
+|-- docs/
+|   |-- api/                  API documentation
+|   |-- man/                  Manual
+|   |-- release-notes/        Release notes (detailed version history)
+|   |-- development/          Development documentation
+|   |-- CHANGELOG.md          Changelog (basic version history)
+|   |-- CODEOWNERS            Code ownership assignments
+|   |-- CONTRIBUTORS.md       Repository contributors
+|   |-- FAQ.md                Frequently asked questions
+|   |-- KNOWN-ISSUES.md       Known issues and workarounds
+|   |-- ROADMAP.md            Planned work and future direction
+|   |-- SECURITY.md           Security policy and vulnerability reporting guidance
+|   |-- SUPPORT.md            How to get help
+|   |-- TROUBLESHOOTING.md    Common problems and resolution steps
+```
+
+#### The `./docs/api/` folder
+
+The `./docs/api/` folder contains API documentation for the repository.
+
+```text
+|-- docs/
+|   |-- api/
+```
+
+#### The `./docs/man/` folder
+
+The `./docs/man/` folder contains the manual for the repository.
+
+```text
+|-- docs/
+|   |-- man/
+```
+
+#### The `./docs/release-notes/` folder
+
+The `./docs/release-notes/` folder contains detailed version history for the repository.
+
+```text
+|-- docs/
+|   |-- release-notes/
+```
+
+#### The `./docs/development/` folder
+
+The `./docs/development/` folder contains development documentation for the repository.
+
+```text
+|-- docs/
+|   |-- development/
 ```
 
 
 
 
-## Supporting documentation
 
-The [docs](docs) folder contains the following standard documents:
 
-| File | Purpose |
-|------|---------|
-| [CHANGELOG.md](docs/CHANGELOG.md) | History of notable changes across releases. |
-| [CODEOWNERS](docs/CODEOWNERS) | GitHub code ownership assignments. |
-| [CONTRIBUTORS.md](docs/CONTRIBUTORS.md) | Acknowledgment of project contributors. |
-| [DEVELOPMENT.md](docs/DEVELOPMENT.md) | Developer setup, workflow, and contribution guidance. |
-| [FAQ.md](docs/FAQ.md) | Answers to frequently asked questions. |
-| [KNOWN-ISSUES.md](docs/KNOWN-ISSUES.md) | Documented known issues and workarounds. |
-| [NOTICES.md](docs/NOTICES.md) | Legal notices and third-party attributions. |
-| [ROADMAP.md](docs/ROADMAP.md) | Planned work and future direction. |
-| [SECURITY.md](docs/SECURITY.md) | Security policy and vulnerability reporting guidance. |
-| [SUPPORT.md](docs/SUPPORT.md) | How to get help and file issues. |
-| [TESTING.md](docs/TESTING.md) | Testing strategy and instructions. |
-| [TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) | Common problems and resolution steps. |
+
+
+
+
+
+
