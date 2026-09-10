@@ -32,14 +32,14 @@ structure instead of an empty scaffold.
 
 ## What this repository includes
 
-- A root README for the template repository itself.
-- [README-REPO.md](README-REPO.md) as an alternate root README for this template repository.
+- A root README.md (this file) for the template repository.
 - [Collection-README.md](Collection-README.md) for collection-style repositories.
 - [SourceCode-README.md](SourceCode-README.md) for software or source-code repositories.
-- A [docs](docs) folder containing common repository documents including the changelog, roadmap, development
+- A [.github/](.github) folder for repository assets, development and workspace data, and repository-specific metadata.
+- A [docs/](docs) folder containing common repository documents including the changelog, roadmap, development, notes, testing, support, security guidance, FAQ, and troubleshooting guidance.
+- A [projects/](projects) folder for individual projects.
   notes, testing, support, security guidance, FAQ, and troubleshooting guidance.
-- A [src](src) folder for source code organization.
-- A [.github](.github) folder for repository assets, workspace data, and repository-specific metadata.
+- A [src/](src) folder for source code organization.
 
 ## Using the template
 
@@ -64,18 +64,26 @@ Your repository should look like this:
 ```text
 .
 |-- .github/
+|   |-- agents/
 |   |-- archive/
-|   |-- copilot/
 |   |-- development/
 |   |   |-- old-src/
 |   |   |-- scratch/
+|   |   |-- template/
 |   |   |-- working/
+|   |   |-- DesignDocument.md
+|   |   |-- Development-KnownIssues.md
+|   |   |-- Development-Notes.md
+|   |   |-- Development-Roadmap.md
+|   |   |-- ScratchPad.md
+|   |-- logo/
+|   |   |-- light/
+|   |   |-- dark/
+|   |   |-- transparent/
 |   |-- repository/
-|   |   |-- logo/
 |   |   |-- readme/
 |   |-- third-party/
 |   |-- workspace/
-|   |-- copilot-instructions.md
 |   
 |-- docs/
 |   |-- api/
