@@ -114,16 +114,6 @@ To create a source code repository:
 
 All repositories using this template should follow the layout described below.
 
-| Item | Description |
-| ---- | ------- |
-| `.github/` | Repository resources (logos, workflows, etc.) |
-| `docs/` | Documentation (changelogs, roadmaps, manuals, etc.) |
-| `projects/` | Only used with [project repositories](#project-repositories)
-| `src/` | Only used with [source code repositories](#source-code-repositories)
-| `.gitignore` | The repository .gitignore |
-| `LICENSE` | The repository license |
-| `README.md` | The repository README |
-
 ```text
 .
 |-- .github/        Repository resources (logos, workflows, etc.)
