@@ -1,5 +1,7 @@
 <div align="center">
 
-  <h1>%RepositoryName%: Scratchpad</h1>
+  <img src="../logo/RepositoryTemplate-336x220.png" alt="Repository Template">
 
+  <h1>Scratch Pad</h1>
+  
 </div>

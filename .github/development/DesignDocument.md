@@ -1,6 +1,8 @@
 <div align="center">
 
-  <h1>%RepositoryName%: Design Document</h1>
+  <img src="../logo/RepositoryTemplate-336x220.png" alt="Repository Template">
+
+  <h1>Design Document</h1>
 
 </div>
 
