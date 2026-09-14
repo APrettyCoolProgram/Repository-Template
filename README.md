@@ -1,10 +1,9 @@
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/logo/RepositoryTemplate-Logo-dark-279x272.jpg">
-    <source media="(prefers-color-scheme: light)" srcset=".github/logo/RepositoryTemplate-Logo-light-279x272.jpg">
-    <img alt="Repository Template logo" src=".github/logo/RepositoryTemplate-Logo-light-279x272.jpg">
-  </picture>
+  <img src=".github/logo/RepositoryTemplate-672x440.png" alt="Repository Template">
+
+  <br/>
+  <br/>
 
   <br>
 
