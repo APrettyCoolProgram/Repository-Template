@@ -1,11 +1,8 @@
 <div align="center">
 
-  <img src=".github/logo/RepositoryTemplate-336x220.png" alt="Repository Template">
+  <img src=".github/logo/RepositoryTemplate-672x440.png" alt="Repository Template">
 
   <br/>
-  <br/>
-
-  <br>
 
   ![RELEASE](https://img.shields.io/badge/Release-September_2026-teal)&nbsp;&nbsp;
   ![LICENSE](https://img.shields.io/badge/license-Apache%202.0-blue)
