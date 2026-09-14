@@ -2,7 +2,9 @@
 
 <div align="center">
 
-  <h1>%RepositoryName%: Troubleshooting</h1>
+  <img src="../.github/logo/RepositoryTemplate-336x220.png" alt="Repository Template">
+
+  <h1>Troubleshooting</h1>
 
 </div>
 

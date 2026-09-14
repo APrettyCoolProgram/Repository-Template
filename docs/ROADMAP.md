@@ -2,7 +2,9 @@
 
 <div align="center">
 
-  <h1>%RepositoryName%: Roadmap</h1>
+  <img src="../.github/logo/RepositoryTemplate-336x220.png" alt="Repository Template">
+
+  <h1>Roadmap</h1>
 
 </div>
 
