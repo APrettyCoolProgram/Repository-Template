@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h1>Repository: Support</h1>
+  <h1>%RepositoryName%: Support</h1>
 
 </div>
 

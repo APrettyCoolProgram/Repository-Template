@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Repository: 0.0 Release Notes</h1>
+  <h1>%RepositoryName%: 0.0 Release Notes</h1>
 
 </div>
 

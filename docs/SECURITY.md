@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h1>Repository: Security</h1>
+  <h1>%RepositoryName%: Security</h1>
 
 </div>
 
