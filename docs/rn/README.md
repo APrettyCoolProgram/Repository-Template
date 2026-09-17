@@ -1,10 +1,10 @@
-❰ [Repository-Template](../../README.md) ❬ Release Notes
+❰ [Repository-Template](../../README.md) ❬ Release notes
 
 <div align="center">
 
   <img src="../../.github/logo/RepositoryTemplate-336x220.png" alt="Repository-Template">
 
-  <h2>Release Notes</h2>
+  <h2>Release notes</h2>
 
 </div>
 
@@ -14,4 +14,4 @@
 
 ***
 
-❰ [Repository-Template](../../README.md) ❬ Release Notes
+❰ [Repository-Template](../../README.md) ❬ Release notes

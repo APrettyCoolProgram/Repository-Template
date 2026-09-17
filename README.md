@@ -7,17 +7,17 @@
   ![RELEASE](https://img.shields.io/badge/Release-September_2026-teal)&nbsp;&nbsp;
   ![LICENSE](https://img.shields.io/badge/license-Apache%202.0-blue)
 
-# Repository Template
+# Repository-Template
 
 </div>
 
-| CONTENTS |
-|----------|
-| [About this repository](#about-this-repository) |
+| CONTENTS                                                        |
+|:----------------------------------------------------------------|
+| [About this repository](#about-this-repository)                 |
 | [What this repository includes](#what-this-repository-includes) |
-| [Using the template](#using-the-template) |
-| [Folder structure](#folder-structure) |
-| [Supporting documentation](#supporting-documentation) |
+| [Using the template](#using-the-template)                       |
+| [Folder structure](#folder-structure)                           |
+| [Supporting documentation](#supporting-documentation)           |
 
 ***
 

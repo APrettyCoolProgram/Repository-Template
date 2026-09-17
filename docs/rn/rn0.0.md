@@ -1,36 +1,54 @@
-❰ [Repository-Template](../../README.md) ❬ [Release Notes](./README.md) ❬ Release XX.YY
+❰ [Repository-Template](../../README.md) ❬ [Release notes](./README.md) ❬ Release XX.YY
 
 <div align="center">
 
   <img src="../../.github/logo/RepositoryTemplate-336x220.png" alt="Repository-Template">
 
-  <h1>Release/Version XX.YY Release Notes</h1>
+  <h1>Release/Version XX.YY Release notes</h1>
 
 </div>
 
-> [!NOTE]
-> Repository-Template XX.YY is [available for download](https://github.com/APrettyCoolProgram/Repository-Template/releases).
->
-> Please see the Repository-Template [manual](../man/README.md) for more information.
+| CONTENTS                                  |
+|:------------------------------------------|
+| [About this release](#about-this-release) |
+| [Known Issues](#known-issues)             |
+| [Miscellaneous](#miscellaneous)           |
 
-| CONTENTS |
-|----------|
-| [This release](#this-release) |
-| [Known Issues](#known-issues) |
-| [Miscellaneous](#miscellaneous) |
+***
 
-## This release
+# About this release
 
-* [Thing A](#thing-a)
-* [Thing B](#thing-b)
-* [Thing C](#thing-c)
+Summarize the release here.
 
-## Known issues
+[Download XX.YY]()  
+[XX.YY Manual]()
 
-## Miscellaneous
+## Added
+
+Describe new features and capabilities.
+
+## Changed
+
+Describe changes to existing features or behavior.
+
+## Fixed
+
+Describe bugs and issues resolved in this release.
+
+## Removed
+
+Describe removed or deprecated features, if applicable.
+
+# Known issues
+
+List known issues affecting this release, or write `None.` when there are none.
+
+# Miscellaneous
+
+Add migration notes, compatibility information, acknowledgements, or other relevant details.
 
 <br/>
 
 ***
 
-❰ [Repository-Template](../../README.md) ❬ [Release Notes](./README.md) ❬ Release XX.YY
+❰ [Repository-Template](../../README.md) ❬ [Release notes](./README.md) ❬ Release XX.YY
