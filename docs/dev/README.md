@@ -1,18 +1,17 @@
+❰ [Repository-Template](../../README.md) ❬ Development
+
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../../.github/logo/dark/repository-logo.jpg">
-    <source media="(prefers-color-scheme: light)" srcset="../../.github/logo/light/repository-logo.jpg">
-    <img alt="Fallback image description" src="../../.github/logo/light/repository-logo.jpg">
-  </picture>
+  <img src="../../.github/logo/RepositoryTemplate-336x220.png" alt="Repository-Template">
 
-  <h1>Sourcecode Documentation</h1>
+  <h2>Development</h2>
 
 </div>
 
+Development information/documentation.
+
+<br/>
+
 ***
 
-* [Class](class/README.md)
-* [Namespace](namespace/README.md)
-
-<!-- R26.6 -->
+❰ [Repository-Template](../../README.md) ❬ Development

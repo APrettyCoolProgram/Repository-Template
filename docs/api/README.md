@@ -1,3 +1,17 @@
-# .github/docs/api
+❰ [Repository-Template](../../README.md) ❬ API
 
-`%RepositoryName%` API documentation goes here
+<div align="center">
+
+  <img src="../../.github/logo/RepositoryTemplate-336x220.png" alt="Repository-Template">
+
+  <h2>API</h2>
+
+</div>
+
+API information/documentation.
+
+<br/>
+
+***
+
+❰ [Repository-Template](../../README.md) ❬ API
