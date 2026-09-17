@@ -1,4 +1,4 @@
-[❰ DVN](../../README.md) ❬ Release Notes
+❰ [Repository-Template](../../README.md) ❬ Release Notes
 
 <div align="center">
 
@@ -14,4 +14,4 @@
 
 ***
 
-[❰ DVN](../../README.md) ❬ Release Notes
+❰ [Repository-Template](../../README.md) ❬ Release Notes
