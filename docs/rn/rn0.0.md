@@ -1,10 +1,10 @@
-❰ [Repository-Template](../../README.md) ❬ [Release Notes](./README.md) ❬ Release 0.0
+❰ [Repository-Template](../../README.md) ❬ [Release Notes](./README.md) ❬ Release XX.YY
 
 <div align="center">
 
   <img src="../../.github/logo/RepositoryTemplate-336x220.png" alt="Repository-Template">
 
-  <h2>Release/Version XX.YY Release Notes</h2>
+  <h1>Release/Version XX.YY Release Notes</h1>
 
 </div>
 
@@ -13,27 +13,24 @@
 >
 > Please see the Repository-Template [manual](../man/README.md) for more information.
 
+| CONTENTS |
+|----------|
+| [This release](#this-release) |
+| [Known Issues](#known-issues) |
+| [Miscellaneous](#miscellaneous) |
 
+## This release
 
+* [Thing A](#thing-a)
+* [Thing B](#thing-b)
+* [Thing C](#thing-c)
 
+## Known issues
 
+## Miscellaneous
 
-
-> [!NOTE]
-> This release focuses on:
->
-> * [Thing A](#thing-a)
-> * [Thing B](#thing-b)
-> * [Thing C](#thing-c)
+<br/>
 
 ***
 
-## Thing A
-
-## Thing B
-
-## Thing C
-
-## Misc
-
-❰ [Repository-Template](../../README.md) ❬ [Release Notes](./README.md) ❬ Release 0.0
+❰ [Repository-Template](../../README.md) ❬ [Release Notes](./README.md) ❬ Release XX.YY
