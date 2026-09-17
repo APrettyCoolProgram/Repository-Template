@@ -1,8 +1,20 @@
 <div align="center">
 
-  <h1>%RepositoryName%: 0.0 Release Notes</h1>
+  <img src="../../.github/logo/RepositoryTemplate-336x220.png" alt="RepositoryTemplate">
+
+  <h2>Release/Version XX.YY Release Notes</h2>
 
 </div>
+
+RepositoryTemplate
+
+
+
+
+
+
+
+
 
 > [!NOTE]
 > This release focuses on:

@@ -10,7 +10,7 @@
 
 ## RYY.MM (YYYY-MM-DD)
 
-> Please see the [release notes](release-notes/rn0.0.md) for more details.
+> Please see the [release notes](rn/rn0.0.md) for more details.
 
 ***
 
