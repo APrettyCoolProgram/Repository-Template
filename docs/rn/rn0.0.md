@@ -1,3 +1,5 @@
+[❰ DVN](../../README.md) ❬ [Release Notes](README.md) ❬ Release 0.0
+
 <div align="center">
 
   <img src="../../.github/logo/RepositoryTemplate-336x220.png" alt="Repository-Template">
@@ -9,7 +11,7 @@
 > [!NOTE]
 > Repository-Template XX.YY is [available for download](https://github.com/APrettyCoolProgram/Repository-Template/releases).
 >
-> Please see the Repository-Template [manual](../man/README.md).
+> Please see the Repository-Template [manual](../man/README.md) for more information.
 
 
 
