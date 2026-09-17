@@ -6,9 +6,10 @@
 
 </div>
 
-Repository-Template XX.YY is [available for download](https://github.com/APrettyCoolProgram/Repository-Template/releases).
-
-Please see the Repository-Template [manual](../man/README.md).
+> [!NOTE]
+> Repository-Template XX.YY is [available for download](https://github.com/APrettyCoolProgram/Repository-Template/releases).
+>
+> Please see the Repository-Template [manual](../man/README.md).
 
 
 
