@@ -6,9 +6,9 @@
 
 </div>
 
-RepositoryTemplate
+RepositoryTemplate XX.YY is [available for download](../../releases).
 
-
+Please see the RepositoryTemplate [manual](../man/README.md).
 
 
 
