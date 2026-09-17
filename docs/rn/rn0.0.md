@@ -1,14 +1,14 @@
 <div align="center">
 
-  <img src="../../.github/logo/RepositoryTemplate-336x220.png" alt="RepositoryTemplate">
+  <img src="../../.github/logo/RepositoryTemplate-336x220.png" alt="Repository-Template">
 
   <h2>Release/Version XX.YY Release Notes</h2>
 
 </div>
 
-RepositoryTemplate XX.YY is [available for download](../../releases).
+Repository-Template XX.YY is [available for download](https://github.com/APrettyCoolProgram/Repository-Template/releases).
 
-Please see the RepositoryTemplate [manual](../man/README.md).
+Please see the Repository-Template [manual](../man/README.md).
 
 
 
