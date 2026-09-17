@@ -4,7 +4,7 @@
 
   <br/>
 
-  ![RELEASE](https://img.shields.io/badge/Release-September_2026-teal)&nbsp;&nbsp;
+  ![RELEASE](https://img.shields.io/badge/release-September_2026-teal)&nbsp;&nbsp;
   ![LICENSE](https://img.shields.io/badge/license-Apache%202.0-blue)
 
 # Repository-Template

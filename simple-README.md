@@ -1,23 +1,14 @@
 <div align="center">
 
-  <img src=".github/logo/RepositoryTemplate-672x440.png" alt="Repository Template">
+  <img src=".github/logo/RepositoryTemplate-672x440.png" alt="Repository-Template">
 
   <br/>
 
-  ![RELEASE](https://img.shields.io/badge/Release-September_2026-teal)&nbsp;&nbsp;
-  ![LICENSE](https://img.shields.io/badge/license-Apache%202.0-blue)
-
-# Simple README.md
-
-</div>
-
-<div align="center">
-
-  <img src="./.github/logo/dvn-Logo-384x184.png" alt="DVN">
-
-  ![RELEASE](https://img.shields.io/badge/version-1.3-teal)&nbsp;
+  ![RELEASE](https://img.shields.io/badge/version-0.0-teal)&nbsp;
   ![LICENSE](https://img.shields.io/badge/license-apache-blue)&nbsp;
   ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)&nbsp;
+
+# Simple README.md
 
 </div>
 
@@ -33,24 +24,16 @@
 
 | CONTENTS |
 |:--------|
-| [About DVN](#about-dvn) |
+| [About Repository-Template](#about-repository-template) |
 | [The DVN manual](#the-dvn-manual) |
 | [License](#license) |
 
-# About DVN
+# About Repository-Template
 
-**DVN** is a command-line utility for managing development environments.
+This README.md is for projects that:
 
-Let's say you are working something called "MyProject", which requires:
-
-* A Visual Studio 2022/2026 solution named "**MyProject**"
-* A Visual Studio Code workspace named "**MyProject-Documentation**"
-* A Visual Studio Code workspace named "**Other-Documentation**"
-* GitHub Desktop
-* A webpage containing API documentation
-* Additional project-related specific data that should be backed up
-
-You could do all of the above steps manually, ***or*** you could let **dvn** do it for you by typing: `dvn myproject`
+* Have a short description
+* Let the manual do the heavy lifting
 
 <!--
 ### Features
@@ -69,9 +52,9 @@ You could do all of the above steps manually, ***or*** you could let **dvn** do 
 
 -->
 
-# The DVN manual
+# The Repository-Template manual
 
-For more information about **DVN**, including detailed usage instructions, please refer to the [Manual](docs/man/README.md).
+For more information about **Repository-Template**, including detailed usage instructions, please refer to the [Manual](docs/man/README.md).
 
 # License
 
