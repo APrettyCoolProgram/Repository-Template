@@ -47,6 +47,10 @@ List known issues affecting this release, or write `None.` when there are none.
 
 Add migration notes, compatibility information, acknowledgements, or other relevant details.
 
+# Repository
+
+Changes to the repository (non-source code).
+
 <br/>
 
 ***
