@@ -11,7 +11,8 @@
 | CONTENTS                                  |
 |:------------------------------------------|
 | [About this release](#about-this-release) |
-| [Known Issues](#known-issues)             |
+| [Known issues](#known-issues)             |
+| [Repository](#repository)                        |
 | [Miscellaneous](#miscellaneous)           |
 
 ***
@@ -23,33 +24,47 @@ Summarize the release here.
 [Download XX.YY]()  
 [XX.YY Manual]()
 
+***
+
 ## Added
 
 Describe new features and capabilities.
+
+***
 
 ## Changed
 
 Describe changes to existing features or behavior.
 
+***
+
 ## Fixed
 
 Describe bugs and issues resolved in this release.
+
+***
 
 ## Removed
 
 Describe removed or deprecated features, if applicable.
 
+***
+
 # Known issues
 
 List known issues affecting this release, or write `None.` when there are none.
 
-# Miscellaneous
-
-Add migration notes, compatibility information, acknowledgements, or other relevant details.
+***
 
 # Repository
 
 Changes to the repository (non-source code).
+
+***
+
+# Miscellaneous
+
+Add migration notes, compatibility information, acknowledgements, or other relevant details.
 
 <br/>
 
