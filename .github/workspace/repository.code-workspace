@@ -5,6 +5,7 @@
 		}
 	],
 	"settings": {
-		"workbench.colorTheme": "Red"
+		"workbench.colorTheme": "Red",
+		"files.autoSave": "onFocusChange"
 	}
 }
