@@ -11,7 +11,14 @@ Use the **Applies to** column to determine which agent should handle a given fil
 
 | Agent                           | Applies to (glob) | Purpose                                      |
 |---------------------------------|-------------------|----------------------------------------------|
+| `AGENT-CSharp-ProjectFlow`      | `**/*.cs`         | Analyze C# projects and generate Mermaid.js diagrams that document the project structure and runtime flows.. |
 | `AGENT-CSharp-XmlDocumentation` | `**/*.cs`         | Add/maintain XML doc comments on C# members. |
+| `AGENT-CSharp-XmlDocumentation` | `**/*.cs`         | Add/maintain XML doc comments on C# members. |
+| `AGENT-CSharp-XmlDocumentation` | `**/*.cs`         | Add/maintain XML doc comments on C# members. |
+| `AGENT-CSharp-XmlDocumentation` | `**/*.cs`         | Add/maintain XML doc comments on C# members. |
+| `AGENT-CSharp-XmlDocumentation` | `**/*.cs`         | Add/maintain XML doc comments on C# members. |
+| `AGENT-CSharp-XmlDocumentation` | `**/*.cs`         | Add/maintain XML doc comments on C# members. |
+
 
 ---
 
