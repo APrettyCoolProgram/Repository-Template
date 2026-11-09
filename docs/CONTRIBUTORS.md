@@ -26,4 +26,6 @@ To contribute, please follow these steps:
 5. **Run the test suite** and ensure all tests pass before submitting.
 6. **Open a pull request** against `main` and fill in the pull request template.
 
+***
+
 ❰ [Back to repository main page](../README.md)
