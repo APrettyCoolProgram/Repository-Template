@@ -11,60 +11,52 @@
 | CONTENTS                                  |
 |:------------------------------------------|
 | [About this release](#about-this-release) |
-| [Known issues](#known-issues)             |
-| [Repository](#repository)                        |
+| [Source code](#source-code)               |
+| [Repository](#repository)                 |
 | [Miscellaneous](#miscellaneous)           |
 
 ***
 
-# About this release
+## About this release
 
-Summarize the release here.
+This is the initial release of %ProjectName%.
 
-[Download XX.YY]()  
+[Download 1.0]()  
 [XX.YY Manual]()
 
 ***
 
-## Added
+## Source code
 
-Describe new features and capabilities.
+### Added
 
-***
+None.
 
-## Changed
+### Changed
 
-Describe changes to existing features or behavior.
+None.
 
-***
+### Fixed
 
-## Fixed
+None.
 
-Describe bugs and issues resolved in this release.
+### Removed
 
-***
+None.
 
-## Removed
-
-Describe removed or deprecated features, if applicable.
+## Known issues
 
 ***
 
-# Known issues
+## Repository
 
-List known issues affecting this release, or write `None.` when there are none.
-
-***
-
-# Repository
-
-Changes to the repository (non-source code).
+None.
 
 ***
 
-# Miscellaneous
+## Miscellaneous
 
-Add migration notes, compatibility information, acknowledgements, or other relevant details.
+None.
 
 <br/>
 
